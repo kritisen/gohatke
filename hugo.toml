@@ -1,0 +1,8 @@
+baseURL = 'https://gohatke.com/'
+languageCode = 'en-us'
+title = 'GoHatke'
+theme = 'ananke'
+[permalinks]
+  [permalinks.page]
+    posts = '/:year/:month/:day/:slug/'
+

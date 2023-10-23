@@ -1,5 +1,5 @@
 +++
-title = 'Creative Side Hustle Club | Harshad Fad-s Success Story Story'
+title = "Creative Side Hustle Club | Harshad Fad's Success Story"
 date = 2021-02-02 
 slug = 'creative-side-hustle-club-harshad-fads-success-story'
 +++

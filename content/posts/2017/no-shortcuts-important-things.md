@@ -11,6 +11,8 @@ categories:
 slulg: no-shortcuts-important-things
 ---
 
+![Eat that frog](../../images/2017/11/frog-927768_1920.jpg)
+
 In which I describe two powerful ideas
 
   1. there are no shortcuts to happiness in careers and relationships,

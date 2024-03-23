@@ -11,7 +11,7 @@ categories:
 slulg: no-shortcuts-important-things
 ---
 
-![Eat that frog](../../images/2017/11/frog-927768_1920.jpg)
+![Eat that frog](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2017/11/frog-927768_1920.jpg)
 
 In which I describe two powerful ideas
 

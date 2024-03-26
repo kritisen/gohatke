@@ -9,6 +9,9 @@ categories:
   - Uncategorized
 
 ---
+
+![Civil_Engineering_Students](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2016/02/Civil_Engineering_Students.jpg)
+
 I got the following question at this site&#8217;s [forum][1] recently:
 
 <div class="post-content-box-yellow">

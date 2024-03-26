@@ -59,4 +59,7 @@ For people who work in the knowledge economy in USA, I find that upper managemen
     
     <p>
       <a href="http://gohatke.kreativlabs.com/files/2015/11/IMG_0368.jpg"><img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2015/11/IMG_0368-1024x574.jpg" alt="IMG_0368" width="1024" height="574" class="aligncenter size-large wp-image-1592" srcset="https://gohatke.kreativlabs.com/files/2015/11/IMG_0368-1024x574.jpg 1024w, https://gohatke.kreativlabs.com/files/2015/11/IMG_0368-300x168.jpg 300w, https://gohatke.kreativlabs.com/files/2015/11/IMG_0368-750x420.jpg 750w, https://gohatke.kreativlabs.com/files/2015/11/IMG_0368.jpg 1599w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><br /> <a href="http://gohatke.kreativlabs.com/files/2015/11/IMG_0367.jpg"><img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2015/11/IMG_0367-1024x574.jpg" alt="IMG_0367" width="1024" height="574" class="aligncenter size-large wp-image-1593" srcset="https://gohatke.kreativlabs.com/files/2015/11/IMG_0367-1024x574.jpg 1024w, https://gohatke.kreativlabs.com/files/2015/11/IMG_0367-300x168.jpg 300w, https://gohatke.kreativlabs.com/files/2015/11/IMG_0367-750x420.jpg 750w, https://gohatke.kreativlabs.com/files/2015/11/IMG_0367.jpg 1599w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+
+![Diwali lights](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/IMG_0370.jpg)
+      
     </p>

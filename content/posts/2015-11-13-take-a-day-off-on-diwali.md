@@ -56,4 +56,3 @@ For people who work in the knowledge economy in USA, I find that upper managemen
       
 ![Diwali lights](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/IMG_0370.jpg)
       
-    </p>

@@ -10,6 +10,9 @@ categories:
   - podcast
 
 ---
+
+![First-Steps](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2017/10/first-steps.jpg)
+
 Finishing your engineering degree but do not know if this is what you want?
 
 Don&#8217;t fret. Take up a job, start earning and then think about your career. It helps to start thinking as an adult.

@@ -15,6 +15,9 @@ categories:
   - podcast
 
 ---
+
+![pexels-photo-52608-frustrated](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2017/10/pexels-photo-52608-frustrated.jpeg)
+
 Frustrated with your engineering degree?
 
 Do not worry if your GPA is low. Think about the one course or project that you enjoyed. You might be able to make a great career out of that one course.

@@ -9,6 +9,9 @@ categories:
   - Belief-system
 
 ---
+
+![Take a day off on Diwali](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/IMG_0368.jpg)
+
 ### Diwali is the festival that is closest to my heart
 
 I am a Bengali from Kolkata. But I grew up in a neighborhood (in my case, my building) where almost all the people were from North India. Every year, for the 2-3 days of Diwali, the whole building would transform into a celebration zone (a mini-Delhi, or Kanpur you could say). It would start with the _Dhanteras_ party where we would have delicious food prepared by all the aunties and then huddle around the _Housie_ (Bingo/_Tambola_) machine while the _emcee_ called out the lucky numbers. On Diwali day, the building would be decked up in all its resplendence &#8212; with everyone&#8217;s mothers working extra hard to deck up the _rangoli_-s and _alpona_ (the last being a Bengali touch by my mother). The main event was Diwali night when everyone would visit each other&#8217;s house to greet and meet everyone (most of us kids only cared about the _kaju-kishmish_ though). This would be followed with bursting of crackers till late in the night. The day after Diwali was spent distributing sweets and _bakshish_ to all the people who worked in the building &#8212; the darwaan-s, the maali, the plumber and others. 

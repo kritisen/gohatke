@@ -52,6 +52,9 @@ For people who work in the knowledge economy in USA, I find that upper managemen
     
     <p>
       Let me leave you with some pics from the celebrations at our building from this year (thanks to Dad for the pics).
+
+![Diwali lights](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/IMG_0367.jpg)
+      
     </p>
     
     <p>

@@ -17,8 +17,6 @@ tags:
   - spotlight
 
 ---
-
-![Text](../../images/2011/08/pic1.jpg)
 [<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2011/08/pic1-300x187.jpg" alt="" title="pic1" width="300" height="187" class="alignnone size-medium wp-image-89" srcset="https://gohatke.kreativlabs.com/files/2011/08/pic1-300x187.jpg 300w, https://gohatke.kreativlabs.com/files/2011/08/pic1-1024x639.jpg 1024w, https://gohatke.kreativlabs.com/files/2011/08/pic1.jpg 1893w" sizes="(max-width: 300px) 100vw, 300px" />][1]  
 In general, things you do in life fall into 3 categories:
 

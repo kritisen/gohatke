@@ -13,6 +13,9 @@ categories:
   - Belief-system
 
 ---
+
+![bored](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2017/10/bored-16811_1920.jpg)
+
 <p class="p1">
   <span class="s1">The number one question on my blog is something like this – </span>
 </p>

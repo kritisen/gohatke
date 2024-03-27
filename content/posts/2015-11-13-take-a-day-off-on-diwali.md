@@ -24,7 +24,7 @@ Eight years ago, I came to USA for doing my Ph.D. And though I had the most hone
 
 Every year, when I call my parents on Diwali night, I hear about all the celebrations that are going on. And though I am not excessively sentimental at other times, every year on Diwali night (middle of the day in US time), I find tears welling up in my eyes. This happens every single year. 
 
->  On Diwali, I miss India the most.
+On Diwali, I miss India the most.
 
 This is compounded by the fact that Diwali day is not a holiday here in USA (Hindus make a small percentage of the population here). Now, I definitely do not dislike work &#8212; in fact, I love coming to work. But on Diwali day, I find it difficult to concentrate and be productive. 
 
@@ -38,14 +38,13 @@ At the two companies where I have worked in USA, I have found that Jews always t
 
 For people who work in the knowledge economy in USA, I find that upper management is usually quite reasonable, and it would be OK to take one day off (especially if you have planned and given advance notice). So here is my pledge &#8212; 
 
-  &#8230; as long as I stay in a country where Diwali is not a state holiday, I promise to take a day off on Diwali. </p> 
+&#8230; as long as I stay in a country where Diwali is not a state holiday, I promise to take a day off on Diwali. </p> 
   
->    Do you want to join me in this pledge?
+Do you want to join me in this pledge?
   
-  <p>
-    <a href="https://www.facebook.com/DiwaliHoliday" target="_blank">LIKE the Facebook page</a> to join the pledge. 
+<a href="https://www.facebook.com/DiwaliHoliday" target="_blank">LIKE the Facebook page</a> to join the pledge. 
     
-  Let me leave you with some pics from the celebrations at our building from this year (thanks to Dad for the pics).
+Let me leave you with some pics from the celebrations at our building from this year (thanks to Dad for the pics).
 
 ![Diwali lights](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/IMG_0367.jpg)
       

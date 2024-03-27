@@ -42,7 +42,7 @@ For people who work in the knowledge economy in USA, I find that upper managemen
   
 Do you want to join me in this pledge?
   
-<a href="https://www.facebook.com/DiwaliHoliday" target="_blank">LIKE the Facebook page</a> to join the pledge. 
+[LIKE the Facebook page](https://www.facebook.com/DiwaliHoliday) (link deprecated since post) to join the pledge. 
     
 Let me leave you with some pics from the celebrations at our building from this year (thanks to Dad for the pics).
 

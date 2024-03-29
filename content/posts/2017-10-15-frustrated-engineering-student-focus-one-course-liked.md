@@ -1,8 +1,8 @@
 ---
-title: Frustrated engineering student? Focus on the one course you liked
-author: Kriti Sen Sharma
-type: post
-date: 2017-10-15T11:04:24+00:00
+title Frustrated engineering student? Focus on the one course you liked
+author Kriti Sen Sharma
+type post
+date 2017-10-15T11:04:24+00:00
 excerpt |
 Frustrated with your engineering degree?
   

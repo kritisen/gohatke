@@ -4,9 +4,9 @@ author: Kriti Sen Sharma
 type: post
 date: 2017-10-07T22:14:46+00:00
 excerpt: |
-> Bored of an engineering job? Have other interests, but do not know if you should pursue them?
+Bored of an engineering job? Have other interests, but do not know if you should pursue them?
   
-> I give you three options.
+  I give you three options.
 url: /2017/10/07/frustrated-engineering-give-three-options/
 featured_image: http://gohatke.kreativlabs.com/files/2017/10/bored-16811_1920.jpg
 categories:
@@ -16,7 +16,7 @@ categories:
 
 ![bored](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2017/10/bored-16811_1920.jpg)
 
-> The number one question on my blog is something like this – 
+The number one question on my blog is something like this – 
 
 “Dear sir, I&#8217;m working in the second year of my job in a multinational company and I hate my job. I finished engineering and I&#8217;ve been working here but I have no interest in this. I think I should be doing something different, something like writing, designing, traveling&#8230; I don&#8217;t know what I should do. Should I stick to my boring job or should I leave this and try something else? Please advise I&#8217;m really stuck.&#8221;
 

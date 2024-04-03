@@ -39,7 +39,7 @@ But before we delve into the details, you must learn the basics first. You must 
 
 ## Secret # I. Get regular
 
-<figure id="attachment_1182" aria-describedby="caption-attachment-1182" style="width: 217px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-medium wp-image-1182" alt="Get Regular" src="http://gohatke.kreativlabs.com/files/2012/12/Hexágono_regular-217x300.png" width="217" height="300" srcset="https://gohatke.kreativlabs.com/files/2012/12/Hexágono_regular-217x300.png 217w, https://gohatke.kreativlabs.com/files/2012/12/Hexágono_regular.png 400w" sizes="(max-width: 217px) 100vw, 217px" />][2]<figcaption id="caption-attachment-1182" class="wp-caption-text">Get Regular: Build a daily regimen for news</figcaption></figure>
+![Hexágono_regular](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/Hex%C3%A1gono_regular.png)
 
 <p style="text-align: center;">
   The first secret is darn simple &#8212; &#8220;<em>Get regular.</em>&#8220;

@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2017-10-07T22:14:46+00:00
 excerpt: |
-Bored of an engineering job? Have other interests, but do not know if you should pursue them?
+  Bored of an engineering job? Have other interests, but do not know if you should pursue them?
   
   I give you three options.
 url: /2017/10/07/frustrated-engineering-give-three-options/

@@ -7,7 +7,7 @@ excerpt: |
   |
     Are you the kind of person, who keeps saying to yourself, "I know I should be keeping up with the news, but I just don't find the time!"? If you answered YES, then you must read this article to learn the THREE SECRETS to world (news) domination.
 url: /2014/03/26/quick-news-fast-news/
-featured_image: http://gohatke.kreativlabs.com/files/2013/12/512px-Neon_sign_NEWS.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/512px-Neon_sign_NEWS.jpg
 categories:
   - Actionable
   - Featured

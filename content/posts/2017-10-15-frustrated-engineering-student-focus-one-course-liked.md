@@ -4,9 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2017-10-15T11:04:24+00:00
 excerpt: |
--  Frustrated with your engineering degree?
-  
--  Do not worry if your GPA is low. Think about the one course or project that you enjoyed. You might be able to make a great career out of that one course.
+ Frustrated with your engineering degree? Do not worry if your GPA is low. Think about the one course or project that you enjoyed. You might be able to make a great career out of that one course.
 url: /2017/10/15/frustrated-engineering-student-focus-one-course-liked/
 featured_image: http://gohatke.kreativlabs.com/files/2017/10/pexels-photo-52608-frustrated.jpeg
 categories:

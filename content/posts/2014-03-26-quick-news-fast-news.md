@@ -15,6 +15,11 @@ categories:
   - time-management
 
 ---
+
+![Neon sign news](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/512px-Neon_sign_NEWS.jpg)
+
+![Quick News fast](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/6829349175_7fca760931_z.jpg)
+
 <figure id="attachment_1138" aria-describedby="caption-attachment-1138" style="width: 600px" class="wp-caption aligncenter">[<img decoding="async" class="size-full wp-image-1138" alt="I know I should be keeping up with the news, but I just don’t find the time!" src="http://gohatke.kreativlabs.com/files/2012/12/6829349175_7fca760931_z.jpg" width="600" srcset="https://gohatke.kreativlabs.com/files/2012/12/6829349175_7fca760931_z.jpg 640w, https://gohatke.kreativlabs.com/files/2012/12/6829349175_7fca760931_z-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][1]<figcaption id="caption-attachment-1138" class="wp-caption-text">Quick news, but how!</figcaption></figure>
 
 ## First, ask yourself the following questions:

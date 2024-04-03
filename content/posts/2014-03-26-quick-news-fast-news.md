@@ -55,7 +55,7 @@ For starts, here is a sample news-reading regimen (click through to the relevant
 
 ## Secret # II. Get passive
 
-<figure id="attachment_1185" aria-describedby="caption-attachment-1185" style="width: 207px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-medium wp-image-1185" alt="Get Passive: Listen to world news while doing something else. " src="http://gohatke.kreativlabs.com/files/2014/03/getPassive-207x300.png" width="207" height="300" srcset="https://gohatke.kreativlabs.com/files/2014/03/getPassive-207x300.png 207w, https://gohatke.kreativlabs.com/files/2014/03/getPassive.png 420w" sizes="(max-width: 207px) 100vw, 207px" />][7]<figcaption id="caption-attachment-1185" class="wp-caption-text">Get Passive: Tune into to world news while doing something else.</figcaption></figure>
+![GetPassive](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/03/getPassive.png)
 
 The second secret involves the trick of passive news-reading.
 

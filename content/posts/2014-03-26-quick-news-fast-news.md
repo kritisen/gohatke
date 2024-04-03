@@ -16,9 +16,9 @@ categories:
 
 ---
 
-![Neon sign news](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/512px-Neon_sign_NEWS.jpg)
+![Neon sign news](../../https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/512px-Neon_sign_NEWS.jpg)
 
-![Quick fast news](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/6829349175_7fca760931_z.jpg)
+![Quick fast news](../../https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/6829349175_7fca760931_z.jpg)
 
 ## First, ask yourself the following questions:
 
@@ -39,7 +39,7 @@ But before we delve into the details, you must learn the basics first. You must 
 
 ## Secret # I. Get regular
 
-![Hexágono_regular](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/Hex%C3%A1gono_regular.png)
+![Hexágono_regular](../../https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/Hex%C3%A1gono_regular.png)
 
 <p style="text-align: center;">
   The first secret is darn simple &#8212; &#8220;<em>Get regular.</em>&#8220;
@@ -55,7 +55,7 @@ For starts, here is a sample news-reading regimen (click through to the relevant
 
 ## Secret # II. Get passive
 
-![GetPassive](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/03/getPassive.png)
+![GetPassive](../../https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/03/getPassive.png)
 
 The second secret involves the trick of passive news-reading.
 

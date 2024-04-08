@@ -63,7 +63,7 @@ The second secret involves the trick of passive news-reading.
 
 ## Secret # III. Get sub-conscious (with &#8216;stream of consciousness reading&#8217;)
 
-<figure id="attachment_1184" aria-describedby="caption-attachment-1184" style="width: 212px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-medium wp-image-1184" alt="Get Subconscious: Stream of consciousness reading is a powerful tool" src="http://gohatke.kreativlabs.com/files/2014/03/getSubconscious-212x300.png" width="212" height="300" srcset="https://gohatke.kreativlabs.com/files/2014/03/getSubconscious-212x300.png 212w, https://gohatke.kreativlabs.com/files/2014/03/getSubconscious.png 454w" sizes="(max-width: 212px) 100vw, 212px" />][8]<figcaption id="caption-attachment-1184" class="wp-caption-text">Get Subconscious: Stream of consciousness reading is a powerful tool</figcaption></figure>
+![getSubconscious](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/03/getSubconscious.png)
 
 Stream of consciousness reading is a super powerful trick for following news.
 
@@ -79,7 +79,7 @@ Now that you know the basics, let&#8217;s get down and dirty with the&#8230;
 
 ## Step 1. Listen to news. {#Step_ListenToNews}
 
-<figure id="attachment_1004" aria-describedby="caption-attachment-1004" style="width: 320px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-full wp-image-1004" alt="e-age radio" src="http://gohatke.kreativlabs.com/files/2013/10/001_radio_small.jpg" width="320" height="212" srcset="https://gohatke.kreativlabs.com/files/2013/10/001_radio_small.jpg 320w, https://gohatke.kreativlabs.com/files/2013/10/001_radio_small-300x198.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" />][12]<figcaption id="caption-attachment-1004" class="wp-caption-text">Listen to e-radio. Image credits: <a href="http://www.flickr.com/photos/markjsebastian/2420247862/" target="_blank">Mark Sebastian via flickr</a></figcaption></figure>
+![radio_small](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/001_radio_small.jpg)
 
 Don&#8217;t read news. Listen to it.
 
@@ -93,7 +93,7 @@ This has the following benefits:
 
 ## Step 2. Bookmark these sites {#bookmarking}
 
-<figure id="attachment_1082" aria-describedby="caption-attachment-1082" style="width: 575px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-full wp-image-1082" alt="e-age radio" src="http://gohatke.kreativlabs.com/files/2013/12/003_news_on_browsers.png" width="575" height="323" srcset="https://gohatke.kreativlabs.com/files/2013/12/003_news_on_browsers.png 575w, https://gohatke.kreativlabs.com/files/2013/12/003_news_on_browsers-300x168.png 300w" sizes="(max-width: 575px) 100vw, 575px" />][13]<figcaption id="caption-attachment-1082" class="wp-caption-text"><a href="http://npr.org" target="_blank">National Public Radio (NPR)</a>, <a href="http://l.economist.com/" target="_blank">Economist Radio</a> and <a href="http://www.bbc.co.uk/worldserviceradio" target="_blank">BBC Radio</a></figcaption></figure>
+![news_on_browsers](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/003_news_on_browsers.png)
 
 Bookmark these exceptional online radio sites:
 
@@ -117,7 +117,7 @@ Bookmark these exceptional online radio sites:
 
 ## Step 3. Get these apps
 
-<figure id="attachment_1152" aria-describedby="caption-attachment-1152" style="width: 200px" class="wp-caption aligncenter">[<img decoding="async" class="size-full wp-image-1152" alt="You got to get the right apps, and the NPR app is a must." src="http://gohatke.kreativlabs.com/files/2014/02/003_apps.png" width="200" srcset="https://gohatke.kreativlabs.com/files/2014/02/003_apps.png 470w, https://gohatke.kreativlabs.com/files/2014/02/003_apps-262x300.png 262w" sizes="(max-width: 470px) 100vw, 470px" />][15]<figcaption id="caption-attachment-1152" class="wp-caption-text">You gotta get the right apps, and the [NPR app][16] is a must.</figcaption></figure>
+![apps](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/003_apps.png)
 
 Install these apps:
 
@@ -129,20 +129,20 @@ Install these apps:
 
 ## Step 4. Listen to editorials {#Step_Editorials}
 
-<figure id="attachment_1156" aria-describedby="caption-attachment-1156" style="width: 225px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-medium wp-image-1156" alt="Listen to editorials for expert opinions" src="http://gohatke.kreativlabs.com/files/2014/02/004_expertOpinions-225x300.jpg" width="225" height="300" srcset="https://gohatke.kreativlabs.com/files/2014/02/004_expertOpinions-225x300.jpg 225w, https://gohatke.kreativlabs.com/files/2014/02/004_expertOpinions.jpg 375w" sizes="(max-width: 225px) 100vw, 225px" />][17]<figcaption id="caption-attachment-1156" class="wp-caption-text">Listen to editorials for expert opinions. [Photo credits: <a href="http://www.flickr.com/photos/phauly/35555985/sizes/m/" target="_blank">phauly via flickr</a>]</figcaption></figure>Listen to the following editorial / op-ed shows:
+![expertOpinions](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/004_expertOpinions.jpg)
 
   * Audio posts titled &#8216;_Special Reports_&#8216; on <a href="http://l.economist.com/" target="_blank">Economist radio</a> present every issue&#8217;s cover article.
   * Shows on <a href="http://www.npr.org/" target="_blank">NPR</a> like <a href="http://www.npr.org/programs/all-things-considered/" target="_blank">All Things Considered</a>, <a href="http://www.npr.org/programs/weekend-edition-saturday/" target="_blank">Weekend Edition Saturday</a> and <a href="http://www.npr.org/programs/weekend-edition-sunday/" target="_blank">Sunday</a>
 
 ## Step 5. Listen to TED radio hour {#Step_TEDRadioHour}
 
-<figure id="attachment_1085" aria-describedby="caption-attachment-1085" style="width: 300px" class="wp-caption aligncenter">[<img decoding="async" class="size-full wp-image-1085" alt="TED radio hour" src="http://gohatke.kreativlabs.com/files/2013/12/TED_radioHour.jpg" width="300" srcset="https://gohatke.kreativlabs.com/files/2013/12/TED_radioHour.jpg 480w, https://gohatke.kreativlabs.com/files/2013/12/TED_radioHour-300x107.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" />][18]<figcaption id="caption-attachment-1085" class="wp-caption-text"><a href="http://www.npr.org/programs/ted-radio-hour/" target="_blank">TED radio hour</a>. It&#8217;s a must.</figcaption></figure>
+![TED_radioHour](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/TED_radioHour.jpg)
 
 NPR&#8217;s <a href="http://www.npr.org/programs/ted-radio-hour/" target="_blank">TED radio hour</a> distills the best of TED talks into hour long episodes. Ideal listening material for long commutes/drives.
 
 ## Step 6. Use LinkedIn for news {#Step_LinkedIn}
 
-<figure id="attachment_1136" aria-describedby="caption-attachment-1136" style="width: 200px" class="wp-caption aligncenter">[<img decoding="async" class="size-full wp-image-1136" alt="The LinkedIn app is a great source for relevant news. " src="http://gohatke.kreativlabs.com/files/2012/12/photo.png" width="200" srcset="https://gohatke.kreativlabs.com/files/2012/12/photo.png 360w, https://gohatke.kreativlabs.com/files/2012/12/photo-168x300.png 168w" sizes="(max-width: 360px) 100vw, 360px" />][19]<figcaption id="caption-attachment-1136" class="wp-caption-text">The <a href="http://www.linkedin.com/mobile" target="_blank">LinkedIn app</a> is a great news source.</figcaption></figure>
+![Photo](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/photo.png)
 
 The <a href="http://www.linkedin.com/mobile" target="_blank">LinkedIn app</a> (or <a href="http://www.linkedin.com/" target="_blank">LinkedIn.com</a>) is a crowd-sourced aggregation of news that is relevant to your particular profession, and to the world of business in general.
 
@@ -150,7 +150,7 @@ The <a href="http://www.linkedin.com/mobile" target="_blank">LinkedIn app</a> (o
 
 ## Step 7. Subscribe to email newsletters {#Step_EmailNewsletters}
 
-<figure id="attachment_1161" aria-describedby="caption-attachment-1161" style="width: 300px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-medium wp-image-1161" alt="You may run whenever you see a 'Subscribe' form, but newsletters do add value." src="http://gohatke.kreativlabs.com/files/2014/02/007_emailNewsletters-300x175.jpg" width="300" height="175" srcset="https://gohatke.kreativlabs.com/files/2014/02/007_emailNewsletters-300x175.jpg 300w, https://gohatke.kreativlabs.com/files/2014/02/007_emailNewsletters.jpg 488w" sizes="(max-width: 300px) 100vw, 300px" />][20]<figcaption id="caption-attachment-1161" class="wp-caption-text">You may run whenever you see a &#8216;Subscribe&#8217; button, but newsletters do add value!</figcaption></figure>
+![EmailNewsletters](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/007_emailNewsletters.jpg)
 
 You may dread signing up for email newsletters, but some _niche_ websites and blogs provide a lot of useful information through such newsletters.
 
@@ -171,7 +171,7 @@ You may dread signing up for email newsletters, but some _niche_ websites and 
 
 ## 8. Use Twitter {#Step_Twitter}
 
-<figure id="attachment_1069" aria-describedby="caption-attachment-1069" style="width: 300px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class=" wp-image-1069 " alt="Twitter for news. [Image credits: Some rights reserved by Spencer E Holtawa]" src="http://gohatke.kreativlabs.com/files/2013/12/3376955681_9b50651e44.jpg" width="300" height="200" srcset="https://gohatke.kreativlabs.com/files/2013/12/3376955681_9b50651e44.jpg 500w, https://gohatke.kreativlabs.com/files/2013/12/3376955681_9b50651e44-300x199.jpg 300w" sizes="(max-width: 300px) 100vw, 300px" />][21]<figcaption id="caption-attachment-1069" class="wp-caption-text"><a href="https://twitter.com/" target="_blank">Twitter</a> for news. [Image credits: <a href="http://creativecommons.org/licenses/by-nd/2.0/" target="_blank">Some rights reserved</a> by <a href="http://www.flickr.com/photos/spencereholtaway/3376955681/sizes/m/" target="_blank">Spencer E Holtawa</a>]</figcaption></figure>Many people swear by <a href="https://twitter.com/" target="_blank">Twitter</a> as their primary source of world news. As Zoe Barnes (<a href="http://www.imdb.com/title/tt1856010/" target="_blank">House of Cards</a>) might have put it, this is the present and the future of news.
+![UseTwitter](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/3376955681_9b50651e44.jpg)
 
 <div class="post-content-box-gray">
   <p>
@@ -193,7 +193,7 @@ You may dread signing up for email newsletters, but some _niche_ websites and 
 
 ## 9. Have Some Fun {#Step_WaitWait}
 
-<figure id="attachment_1170" aria-describedby="caption-attachment-1170" style="width: 300px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-medium wp-image-1170" alt="Wait Wait Don't Tell Me -- NPR's weekly news quiz show is both informative and hilarious " src="http://gohatke.kreativlabs.com/files/2014/02/009_waitWait-300x202.jpg" width="300" height="202" srcset="https://gohatke.kreativlabs.com/files/2014/02/009_waitWait-300x202.jpg 300w, https://gohatke.kreativlabs.com/files/2014/02/009_waitWait.jpg 452w" sizes="(max-width: 300px) 100vw, 300px" />][22]<figcaption id="caption-attachment-1170" class="wp-caption-text"><a href="http://www.npr.org/programs/wait-wait-dont-tell-me/" target="_blank">Wait Wait Don&#8217;t Tell Me</a> &#8212; NPR&#8217;s weekly news quiz show is both informative and hilarious</figcaption></figure>
+![Wait_wait](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/009_waitWait.jpg)
 
 <a href="http://www.npr.org/programs/wait-wait-dont-tell-me/" target="_blank">Wait Wait Don&#8217;t Tell Me</a> is NPR&#8217;s weekly news quiz. If you ever found news to be boring, this show is bound to change your opinion of news. This show is an hour-long roller coaster of fun, but also packs a substantial dosage of news and information.
 
@@ -203,7 +203,7 @@ You may dread signing up for email newsletters, but some _niche_ websites and 
 
 ## 10. Read! Read! Read!
 
-<figure id="attachment_1166" aria-describedby="caption-attachment-1166" style="width: 300px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-medium wp-image-1166" alt="Don't underestimate the power of reading [Photo Credit: Camera Eye Photography via Compfight cc]" src="http://gohatke.kreativlabs.com/files/2014/02/10_readRead_2-300x200.jpg" width="300" height="200" srcset="https://gohatke.kreativlabs.com/files/2014/02/10_readRead_2-300x200.jpg 300w, https://gohatke.kreativlabs.com/files/2014/02/10_readRead_2.jpg 500w" sizes="(max-width: 300px) 100vw, 300px" />][23]<figcaption id="caption-attachment-1166" class="wp-caption-text">Don&#8217;t underestimate the power of reading [Photo Credit: [Camera Eye Photography][24] via [Compfight][25] [cc][26]]</figcaption></figure>Well, if you start following one or more of the steps above, you are surely on your way to &#8220;world (news) domination&#8221;. But never underestimate the power of the written word! The jury is still out, but the pen may be mightier than the &#8216;s(poken)-word&#8217;.
+![Read_Read](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/10_readRead_2.jpg)
 
 A comprehensive list of good news-sites is beyond the scope of this piece, but here&#8217;s a start::
 
@@ -214,7 +214,7 @@ A comprehensive list of good news-sites is beyond the scope of this piece, but h
 
 ## YOUR TURN NOW!
 
-<figure id="attachment_1167" aria-describedby="caption-attachment-1167" style="width: 223px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-medium wp-image-1167" alt="Your turn now! [Photo credit: Wikimedia commons]" src="http://gohatke.kreativlabs.com/files/2014/02/30_yourTurn_2-223x300.jpg" width="223" height="300" srcset="https://gohatke.kreativlabs.com/files/2014/02/30_yourTurn_2-223x300.jpg 223w, https://gohatke.kreativlabs.com/files/2014/02/30_yourTurn_2-762x1024.jpg 762w, https://gohatke.kreativlabs.com/files/2014/02/30_yourTurn_2-900x1209.jpg 900w, https://gohatke.kreativlabs.com/files/2014/02/30_yourTurn_2.jpg 1271w" sizes="(max-width: 223px) 100vw, 223px" />][30]<figcaption id="caption-attachment-1167" class="wp-caption-text">Your turn now! [_Photo credit_: [Wikimedia commons][31]]</figcaption></figure>
+![YourTurn](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/30_yourTurn_2.jpg)
 
 > **OK. Your turn now!**
 

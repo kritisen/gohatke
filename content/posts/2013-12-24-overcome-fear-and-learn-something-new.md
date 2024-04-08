@@ -14,7 +14,8 @@ categories:
   - Inspiration
 
 ---
-<figure id="attachment_1111" aria-describedby="caption-attachment-1111" style="width: 600px" class="wp-caption aligncenter">[<img decoding="async" class="size-full wp-image-1111" alt="babysteps1" src="http://gohatke.kreativlabs.com/files/2013/12/babysteps1.jpg" width="600" srcset="https://gohatke.kreativlabs.com/files/2013/12/babysteps1.jpg 640w, https://gohatke.kreativlabs.com/files/2013/12/babysteps1-300x199.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" />][1]<figcaption id="caption-attachment-1111" class="wp-caption-text">How easy it is for a child to learn something new! [Photo credits: <a href="http://www.flickr.com/photos/recipher/2491336563/sizes/z/" target="_blank">Johnny Hall</a>]</figcaption></figure>
+
+![Baby-Steps](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/babysteps1.jpg)
 
 ## Too afraid to learn
 
@@ -115,7 +116,7 @@ I ask myself some days why do I need to wage this mental war within? Can I not j
 
 I secretly hope that the quiet Siddharth, who has swum 20 laps in half the time I took to swim 2, who waits patiently as I start each plunge in the pool with a mental review of my swimming concepts (yes I am nerdish that way), and a quick prayer to the god of swimming (with 33 crore deities in the Hindu mythology, I am sure there is one for this), is learning some implicit lessons along with mom. That it is ok to keep trying for something you really, really want. That adults get scared of small things too, but to pick yourself up with whatever little you have, and start walking (or swimming) towards where you want to go, to acknowledge the fears within but not get bullied by them, that is when you can call yourself a grown up. **And that, ultimately, is why I swim.**
 
-[<img loading="lazy" decoding="async" class="size-full wp-image-1110 aligncenter" alt="Back-to-Pavilion-cover-2" src="http://gohatke.kreativlabs.com/files/2013/12/Back-to-Pavilion-cover-2.png" width="235" height="368" srcset="https://gohatke.kreativlabs.com/files/2013/12/Back-to-Pavilion-cover-2.png 235w, https://gohatke.kreativlabs.com/files/2013/12/Back-to-Pavilion-cover-2-191x300.png 191w" sizes="(max-width: 235px) 100vw, 235px" />][2]
+![Back-to-Pavilion-cover](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/Back-to-Pavilion-cover-2.png)
 
 _Poonam Mulherkar is a biomedical engineer by training and a first time writer. &#8216;Back to Pavilion&#8217; is loosely based on what she and her family experienced as they started their journey of settling back in India (after living for many years in USA). [**Adapted from the back cover of &#8216;Back to Pavilion&#8217;**]_
 

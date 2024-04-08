@@ -3,7 +3,9 @@ title: How to overcome fear and learn something new
 author: Kriti Sen Sharma
 type: post
 date: 2013-12-25T01:05:22+00:00
-excerpt: As children, we find it easy to learn something new. As we grow up, we find it difficult to overcome our fears to learn that new thing we want to learn. But there is a secret trick to overcome the initial barrier.
+excerpt: |
+  |
+  As children, we find it easy to learn something new. As we grow up, we find it difficult to overcome our fears to learn that new thing we want to learn. But there is a secret trick to overcome the initial barrier.
 url: /2013/12/24/overcome-fear-and-learn-something-new/
 featured_image: http://gohatke.kreativlabs.com/files/2013/12/learn-everyday.jpg
 categories:

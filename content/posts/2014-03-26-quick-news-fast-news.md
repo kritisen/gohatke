@@ -55,7 +55,7 @@ For starts, here is a sample news-reading regimen (click through to the relevant
 
 ## Secret # II. Get passive
 
-![GetPassive](../../images/2014/03/getPassive.png)
+![GetPassive](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/03/getPassive.png)
 
 The second secret involves the trick of passive news-reading.
 

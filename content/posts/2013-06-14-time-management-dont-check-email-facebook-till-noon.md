@@ -82,10 +82,8 @@ Instead, what I will tell you is this:
       Instead what I want to point out is that we should avoid using Facebook and e-mail as mediums of micro-emotion at least till noon.
     </p>
     
-    <p>
-      
+    <p> 
       ![Lazy-Decoding](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/06/me-life-goals-internet.jpeg)
-      
     </p>
     
     <h2>

@@ -10,7 +10,10 @@ categories:
   - Belief-system
 
 ---
-[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-928" alt="5338349795_24b57f8529_o" src="http://gohatke.kreativlabs.com/files/2013/08/5338349795_24b57f8529_o.jpg" width="800" height="436" srcset="https://gohatke.kreativlabs.com/files/2013/08/5338349795_24b57f8529_o.jpg 800w, https://gohatke.kreativlabs.com/files/2013/08/5338349795_24b57f8529_o-300x163.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][1]  
+![NO](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/08/5338349795_24b57f8529_o1.jpg)
+
+![NO](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/08/5338349795_24b57f8529_o.jpg)
+ 
 Photo Credit: [Ben Heine][2] via [Compfight][3] [cc][4]
 
 ## Saying no to food &#8212; the Indian way vs. the American way
@@ -38,7 +41,7 @@ With this prelude about the differing usage of the word &#8220;no&#8221; in two 
 
 &nbsp;
 
-[<img loading="lazy" decoding="async" class="alignleft size-full wp-image-998" alt="Image via LinkedIn" src="http://gohatke.kreativlabs.com/files/2013/08/PPD.jpg" width="200" height="200" srcset="https://gohatke.kreativlabs.com/files/2013/08/PPD.jpg 200w, https://gohatke.kreativlabs.com/files/2013/08/PPD-32x32.jpg 32w, https://gohatke.kreativlabs.com/files/2013/08/PPD-64x64.jpg 64w, https://gohatke.kreativlabs.com/files/2013/08/PPD-96x96.jpg 96w, https://gohatke.kreativlabs.com/files/2013/08/PPD-128x128.jpg 128w, https://gohatke.kreativlabs.com/files/2013/08/PPD-50x50.jpg 50w" sizes="(max-width: 200px) 100vw, 200px" />][5]During my two years of work in India, I had the opportunity to interact with <a href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=2bedV" target="_blank">Dr Partha Pratim Das</a>, or PPD as we called him. Now, PPD was one of the sharpest and smartest people I had ever met. I also observed that he was able to complete an amazing amount of stuff during his work-week. Firstly, he was Head of Engineering at the Kolkata office &#8212; that meant that he had to be involved in ten or more projects at any given time. Naturally, he spent a lot of time in meetings, tele-conferences and business related travel. He also led the technical publications team at the office, something which is often ignored by technologists. He was always abreast of latest technological developments in computer science and software engineering, and devoted a major chunk of his time for such study. Despite doing all this, he was extremely approachable. He always seemed to be ready for a chat, and you would regularly find him in the corridors doing exactly that. Also I am sure that PPD received a ton of emails &#8212; yet he was able to reply back to many of my emails (technical and non-technical) with astounding amount of detail and insight.
+![PPDAS](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/08/PPD.jpg)During my two years of work in India, I had the opportunity to interact with <a href="http://www.iitkgp.ac.in/fac-profiles/showprofile.php?empcode=2bedV" target="_blank">Dr Partha Pratim Das</a>, or PPD as we called him. Now, PPD was one of the sharpest and smartest people I had ever met. I also observed that he was able to complete an amazing amount of stuff during his work-week. Firstly, he was Head of Engineering at the Kolkata office &#8212; that meant that he had to be involved in ten or more projects at any given time. Naturally, he spent a lot of time in meetings, tele-conferences and business related travel. He also led the technical publications team at the office, something which is often ignored by technologists. He was always abreast of latest technological developments in computer science and software engineering, and devoted a major chunk of his time for such study. Despite doing all this, he was extremely approachable. He always seemed to be ready for a chat, and you would regularly find him in the corridors doing exactly that. Also I am sure that PPD received a ton of emails &#8212; yet he was able to reply back to many of my emails (technical and non-technical) with astounding amount of detail and insight.
 
 I was perplexed. Here I was, fresh out of undergrad, working on just ONE project, and yet feeling backlogged with work, emails and personal goals. And there was PPD, twenty years my senior, managing so much work with amazing efficiency. One day, in a meeting with PPD, some other colleagues and I requested him to explain what his efficiency secret was.
 
@@ -61,7 +64,9 @@ PPD&#8217;s advice stuck with me through the years. Also, I happened to travel t
 Be it offers for seconds, dinner invitations, requests for project participation or anything, an individual&#8217;s personal preference is taken into consideration. Here, the phrase &#8216;freedom&#8217; is applicable to every level of an individual&#8217;s life.
 
 Here is something <a href="http://en.wikiquote.org/wiki/Steve_Jobs" target="_blank">Steve Jobs</a> said about the matter of saying &#8220;no&#8221;:  
-[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-930" alt="saying no" src="http://gohatke.kreativlabs.com/files/2013/08/saying-no.jpg" width="600" height="400" srcset="https://gohatke.kreativlabs.com/files/2013/08/saying-no.jpg 600w, https://gohatke.kreativlabs.com/files/2013/08/saying-no-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][6]  
+
+![Saying-No](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/08/saying-no.jpg)
+ 
 _[Image credit: <a href="http://www.framedfrosting.com/2012/10/its-okay-to-say-no.html" target="_blank">framedfrosting.com</a> via [Pinterest][7]]_
 
 I am not saying that all things American are good. There are many things that are worth criticizing/questioning &#8212; an overabundance of guns, frozen dinners, distant neighbors, to name a few. And there are many things in India that make it the wonderful country that it is. Yet, every culture should adapt. And maybe it is time for us Indians to change.

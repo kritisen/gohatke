@@ -14,6 +14,7 @@ categories:
   - Inspiration
 
 ---
+![Learn-Everyday](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/learn-everyday.jpg)
 
 ![Baby-Steps](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/babysteps1.jpg)
 

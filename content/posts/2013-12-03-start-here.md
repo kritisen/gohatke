@@ -12,7 +12,9 @@ categories:
   - Lists
 
 ---
-<figure id="attachment_1046" aria-describedby="caption-attachment-1046" style="width: 600px" class="wp-caption alignnone">[<img decoding="async" class="size-full wp-image-1046" alt="8419988105_367cb3d1f8_c" src="http://gohatke.kreativlabs.com/files/2013/12/8419988105_367cb3d1f8_c.jpg" width="575" srcset="https://gohatke.kreativlabs.com/files/2013/12/8419988105_367cb3d1f8_c.jpg 800w, https://gohatke.kreativlabs.com/files/2013/12/8419988105_367cb3d1f8_c-300x200.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" />][1]<figcaption id="caption-attachment-1046" class="wp-caption-text">See list below for top articles at this site. [Image credits: <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/" target="_blank">Some rights reserved</a> by <a href="http://www.flickr.com/photos/wesley_lelieveld/8419988105/sizes/c/" target="_blank">Wesley Lelieveld Photography</a>]</figcaption></figure>
+![Start](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/8419988105_367cb3d1f8_c.jpg)
+
+![Start](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/8419988105_367cb3d1f8_c.jpg)
 
 So you are new to GoHatke? Wondering what this &#8216;_Hatke_&#8216; business is all about?
 

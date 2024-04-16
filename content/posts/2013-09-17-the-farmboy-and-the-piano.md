@@ -12,7 +12,10 @@ categories:
   - Life-principles
 
 ---
-[<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2013/09/6137393610_151912e71e_b.jpg" alt="Piano Keys" width="1024" height="682" class="alignnone size-full wp-image-957" srcset="https://gohatke.kreativlabs.com/files/2013/09/6137393610_151912e71e_b.jpg 1024w, https://gohatke.kreativlabs.com/files/2013/09/6137393610_151912e71e_b-300x199.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]  
+![FarmBoy-Piano](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/09/6137393610_151912e71e_b.jpg)
+
+![FarmBoy-Piano](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/09/6137393610_151912e71e_b.jpg)
+
 Photo credit: <a href="http://www.flickr.com/photos/pellesten/6137393610/sizes/l/in/photostream/" target="_blank">pellesten</a> via <a href="http://www.flickr.com/" target="_blank">flickr</a>
 
 ## The Farmboy and The Piano 
@@ -65,7 +68,8 @@ The sun had come up now, shining brightly through the clouds and fog that had en
   If you liked what you read and would like to be notified about future posts at this site, <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">sign up for our mailing list</a>, or LIKE us on <a href="http://facebook.com/gohatke">Facebook</a>. </p>
 </div>
 
-[<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2013/09/5006494955_d4ae550f8d_b.jpg" alt="5006494955_d4ae550f8d_b" width="1024" height="683" class="alignnone size-full wp-image-956" srcset="https://gohatke.kreativlabs.com/files/2013/09/5006494955_d4ae550f8d_b.jpg 1024w, https://gohatke.kreativlabs.com/files/2013/09/5006494955_d4ae550f8d_b-300x200.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" />][2]  
+![FarmBoy-Piano](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/09/5006494955_d4ae550f8d_b.jpg)
+ 
 Photo credit: <a href="http://www.flickr.com/photos/mwichary/5006494955/sizes/l/in/photostream/" target="_blank">Marcin Wichary</a> via <a href="http://www.flickr.com/" target="_blank">flickr</a>
 
  [1]: http://gohatke.kreativlabs.com/files/2013/09/6137393610_151912e71e_b.jpg

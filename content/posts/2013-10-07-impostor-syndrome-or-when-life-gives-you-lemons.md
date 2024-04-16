@@ -11,7 +11,9 @@ categories:
   - Life-principles
 
 ---
-[<img loading="lazy" decoding="async" class="alignnone  wp-image-990" alt="world_questions_you" src="http://gohatke.kreativlabs.com/files/2013/10/world_questions_you1.jpg" width="393" height="397" srcset="https://gohatke.kreativlabs.com/files/2013/10/world_questions_you1.jpg 655w, https://gohatke.kreativlabs.com/files/2013/10/world_questions_you1-297x300.jpg 297w, https://gohatke.kreativlabs.com/files/2013/10/world_questions_you1-32x32.jpg 32w, https://gohatke.kreativlabs.com/files/2013/10/world_questions_you1-64x64.jpg 64w, https://gohatke.kreativlabs.com/files/2013/10/world_questions_you1-96x96.jpg 96w, https://gohatke.kreativlabs.com/files/2013/10/world_questions_you1-128x128.jpg 128w, https://gohatke.kreativlabs.com/files/2013/10/world_questions_you1-50x50.jpg 50w" sizes="(max-width: 393px) 100vw, 393px" />][1]
+![World-Questions-You](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/world_questions_you1.jpg)
+
+![World-Questions-You](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/world_questions_you1.jpg)
 
 Some of you might have noticed this already — I recently made a diversion from my usual style of writing at GoHatke. Instead of writing in the usual article format that I have been using, I [wrote a short story][2]. The story was about Roy Jackson, a farm-boy who loved to play the piano, but found (to his great disappointment) that he was nowhere as good as his classmates.
 
@@ -83,7 +85,8 @@ I felt that Roy’s experience could teach us something:
   </blockquote>
 </div>
 
-[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-982" alt="Slide1" src="http://gohatke.kreativlabs.com/files/2013/10/Slide1.jpg" width="720" height="540" srcset="https://gohatke.kreativlabs.com/files/2013/10/Slide1.jpg 720w, https://gohatke.kreativlabs.com/files/2013/10/Slide1-300x225.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />][3]  
+![Slide1](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/Slide1.jpg)
+
 Or as someone aptly put it in <a href="http://theprofessorisin.com/2012/12/11/the-imposter-syndrome-or-as-my-mother-told-me-just-because-everyone-else-is-an-asshole-it-doesnt-make-you-a-fraud-a-guest-post/" target="_blank">a post on impostor syndrome</a>, &#8220;_Just because everyone else is an a**, it doesn’t make you a fraud._&#8221;
 
 I have seen many friends and colleagues suffer from something like impostor syndrome at some point in their life. (Heck, haven&#8217;t all of us felt low about ourselves sometime or the other?) Cheerful, confident people have been sapped of their self-assurance and conviction. The reasons may have been varied &#8212; bad bosses, office politics, incompatibility with a social group, language problems etc. Yet, many have invariably blamed themselves first, and have suffered emotionally in the process.
@@ -94,7 +97,7 @@ Finally, in [my story][2], the ending does not hint to what actually happened to
 
 My only wish is that all the Roy Jacksons in the world have the courage, guidance, and good fortune to take the decision that turns out right for them.
 
-[<img loading="lazy" decoding="async" class="alignnone  wp-image-991" alt="you_question_world" src="http://gohatke.kreativlabs.com/files/2013/10/you_question_world1.jpg" width="305" height="364" srcset="https://gohatke.kreativlabs.com/files/2013/10/you_question_world1.jpg 508w, https://gohatke.kreativlabs.com/files/2013/10/you_question_world1-251x300.jpg 251w" sizes="(max-width: 305px) 100vw, 305px" />][4]
+![You-Question-World](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/you_question_world1.jpg)
 
 _**[All names and details are changed in the above transcript as well as [in the story][2]]**_
 

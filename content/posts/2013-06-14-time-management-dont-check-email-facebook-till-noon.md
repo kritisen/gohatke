@@ -14,6 +14,8 @@ tags:
   - work-life-balance
 
 ---
+![Me-Life-Goals-Internet](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/06/me-life-goals-internet.jpeg)
+
 For a person living under the poverty line, the most important resources are food and shelter.
 
 For a person living in a war-torn country like Syria, the most important resource is peace.
@@ -81,7 +83,9 @@ Instead, what I will tell you is this:
     </p>
     
     <p>
-      <a href="http://gohatke.kreativlabs.com/files/2013/06/me-life-goals-internet.jpeg"><img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2013/06/me-life-goals-internet.jpeg" alt="me-life-goals-internet" width="538" height="709" class="alignnone size-full wp-image-840" srcset="https://gohatke.kreativlabs.com/files/2013/06/me-life-goals-internet.jpeg 538w, https://gohatke.kreativlabs.com/files/2013/06/me-life-goals-internet-227x300.jpeg 227w" sizes="(max-width: 538px) 100vw, 538px" /></a>
+      
+      ![Lazy-Decoding](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/06/me-life-goals-internet.jpeg)
+      
     </p>
     
     <h2>

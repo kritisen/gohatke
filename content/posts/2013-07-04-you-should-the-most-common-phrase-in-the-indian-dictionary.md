@@ -13,8 +13,9 @@ tags:
   - belief-system
 
 ---
-[<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2013/07/2787215808_bd462de557_o.jpg" alt="2787215808_bd462de557_o" width="700" height="489" class="alignnone size-full wp-image-907" srcset="https://gohatke.kreativlabs.com/files/2013/07/2787215808_bd462de557_o.jpg 700w, https://gohatke.kreativlabs.com/files/2013/07/2787215808_bd462de557_o-300x209.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />][1]  
-Photo Credit: [Gregory Bastien][2] via [Compfight][3] [cc][4]
+![You-Should](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/07/2787215808_bd462de557_o.jpg)
+
+![You-Should](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/07/2787215808_bd462de557_o.jpg)
 
 ### &#8216;You should&#8230;&#8217; is probably the most common phrase in the Indian dictionary:  
 

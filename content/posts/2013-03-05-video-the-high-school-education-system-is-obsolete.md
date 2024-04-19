@@ -14,6 +14,8 @@ tags:
   - education
 
 ---
+![sugata-mitra-playlist](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/sugata-mitra-playlist.jpg)
+
 Dr Sugata Mitra received the TED prize in 2013, and gave a fantastic talk on his vision of &#8220;A school in the cloud&#8221; (embedded below or available at <a href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud.html" target="_blank">this link</a>). He notes that the high-school education system is obsolete and does not sufficiently serve today&#8217;s needs. He says that the entire education system may have a tremendous upheaval in the next few decades. And he shows a roadmap for the future which empowers students as well as teachers.
 
 [Dr Sugata Mitra&#8217;s TED prize talk 2013 is embedded below or is available at <a href="http://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud.html" target="_blank">this link</a>]

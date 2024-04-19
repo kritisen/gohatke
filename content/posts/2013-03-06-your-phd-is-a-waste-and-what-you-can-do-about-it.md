@@ -18,7 +18,9 @@ tags:
   - phd
 
 ---
-[<img decoding="async" class="alignnone  wp-image-766" alt="4359939963_f082b4ae9c_b" src="http://gohatke.kreativlabs.com/files/2013/03/4359939963_f082b4ae9c_b.jpg" width="700" srcset="https://gohatke.kreativlabs.com/files/2013/03/4359939963_f082b4ae9c_b.jpg 1024w, https://gohatke.kreativlabs.com/files/2013/03/4359939963_f082b4ae9c_b-300x186.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+![PhD-degree-waste](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/4359939963_f082b4ae9c_b.jpg)
+
+![PhD degree-waste](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/4359939963_f082b4ae9c_b.jpg)
 
 **&#8220;Your PhD degree is a waste&#8221;.**
 

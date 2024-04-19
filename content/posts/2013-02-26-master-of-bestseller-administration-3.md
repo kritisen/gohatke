@@ -12,6 +12,8 @@ categories:
   - Writing
 
 ---
+![sexSceneFivePoint](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/sexSceneFivePoint.jpg)
+
 ## 1.  What J R R Tolkien and Chetan Bhagat have in common&#8230;
 
 In ‘The Lord of the Rings’, J R R Tolkien conjured up an entire universe of dwarves, hobbits, elves and other magical creatures. In Chetan Bhagat’s debut novel ‘Five Point Someone’, the central character Hari Kumar is a student at IIT and yet manages to have sex. (As many IIT-ians will agree), both Tolkien and Bhagat accomplished enormous feats of imagination.
@@ -28,7 +30,7 @@ If Chetan Bhagat were to fall into this vicious cycle of personal censorship, an
 
 When ‘Five Point Somone’ was adapted into the movie ‘Three Idiots’, the part about the sex had to be modified. And what was the modification?  It was this: all throughout the movie, Aamir Khan kept wondering whether the nose comes in the way of a kiss!  Man, that’s super lame!
 
-[<img decoding="async" class="alignnone  wp-image-746" alt="sexSceneFivePoint" src="http://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint.jpg" width="750" srcset="https://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint.jpg 933w, https://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint-290x290.jpg 290w, https://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint-300x300.jpg 300w, https://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint-32x32.jpg 32w, https://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint-64x64.jpg 64w, https://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint-96x96.jpg 96w, https://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint-128x128.jpg 128w, https://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint-50x50.jpg 50w" sizes="(max-width: 933px) 100vw, 933px" />][1]
+![sexSceneFivePoint](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/sexSceneFivePoint.jpg)
 
 Maybe it is OK to do such dilution in case of an Indian movie. After all, an Indian movie is meant for the masses. But why carry out such a dilution in case of a book?  Why should one be pressurized to pander to the masses?
 
@@ -42,7 +44,7 @@ Next, let us take up the example of an article written by Arnab Ray at his blog 
 
 But who is Sylvia Krystel?  Well to the uninitiated, Sylvia Krystel is “Emmanuelle” – the lead character in a soft-core pornographic film franchise by the same name (most connoisseurs will agree that the Emmanuelle series is a historic milestone in the world of soft-core pornography.)
 
-[<img decoding="async" class="alignnone  wp-image-752" alt="sylviaKristel2" src="http://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21.jpg" width="400" srcset="https://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21.jpg 750w, https://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21-290x290.jpg 290w, https://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21-300x300.jpg 300w, https://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21-32x32.jpg 32w, https://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21-64x64.jpg 64w, https://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21-96x96.jpg 96w, https://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21-128x128.jpg 128w, https://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21-50x50.jpg 50w" sizes="(max-width: 750px) 100vw, 750px" />][3]
+![sylviaKristel](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/sylviaKristel21.jpg)
 
 But wait!  Soft-core pornography!  And Arnab Ray bids adieu to a porn-star as his close friend!  Should such kind of low-brow stuff be allowed in Indian society?  Should Arnab Ray be banned?
 

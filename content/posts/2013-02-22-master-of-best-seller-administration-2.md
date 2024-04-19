@@ -16,6 +16,9 @@ categories:
   - Writing
 
 ---
+
+![questioningKid](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/001_questioningKid.jpg)
+
 In my previous article, &#8220;[Master of Best-seller Administration &#8230;][1]&#8220;, I wrote about the interesting phenomenon that so many Indian novelists are graduates from famous universities. Why is this so? &#8212; I thought.
 
 And I came to the following conclusions (listed in brief here. For the &#8220;Full Monty&#8221;, go read [here][2]):
@@ -27,7 +30,9 @@ And I came to the following conclusions (listed in brief here. For the &#8220;Fu
   * **Money** is helpful too&#8230;
 
 Well, after I wrote the article, I kept thinking: &#8220;What would the best-selling authors say if they read this article? **Would they agree?**&#8221;  
-[<img loading="lazy" decoding="async" class="aligncenter size-full wp-image-725" alt="001_questioningKid" src="http://gohatke.kreativlabs.com/files/2013/02/001_questioningKid.jpg" width="867" height="685" srcset="https://gohatke.kreativlabs.com/files/2013/02/001_questioningKid.jpg 867w, https://gohatke.kreativlabs.com/files/2013/02/001_questioningKid-300x237.jpg 300w" sizes="(max-width: 867px) 100vw, 867px" />][3]  
+
+![questioningKid](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/001_questioningKid.jpg) 
+
 So I thought I would try to to find exactly that out. So I tried to connect with the writers featured in my article through email, Twitter, or any (legal) means possible.
 
 <span style="font-size: 1.5em;">1. Aswhin Sanghi&#8217;s reply</span>
@@ -84,8 +89,7 @@ And Joe Bunting&#8217;s blog &#8220;[The Write Practice][5]&#8221; goes one step
 
 The Masters agree &#8212; hard-work, discipline, and practice (i.e. all the boring stuff) are of paramount importance in the field of writing too!
 
-[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-754" alt="8140770540_b986f6cb54" src="http://gohatke.kreativlabs.com/files/2013/02/8140770540_b986f6cb54.jpg" width="500" height="332" srcset="https://gohatke.kreativlabs.com/files/2013/02/8140770540_b986f6cb54.jpg 500w, https://gohatke.kreativlabs.com/files/2013/02/8140770540_b986f6cb54-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][7]  
-[Photo Credit: [streetwrk.com][8] via [Compfight][9] [cc][10]]
+![Study](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/8140770540_b986f6cb54.jpg)
 
  [1]: http://gohatke.kreativlabs.com/2013/02/02/master-of-best-seller-administration-1/
  [2]: http://gohatke.kreativlabs.com/2013/02/02/master-of-best-seller-administration-1/ "Master of Best-seller Administration. Why so many best-selling Indian novelists are graduates from famous universities."

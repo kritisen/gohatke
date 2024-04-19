@@ -19,7 +19,9 @@ tags:
   - shamelessness
 
 ---
-[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-807" alt="292304907_c4ebbb6020_b" src="http://gohatke.kreativlabs.com/files/2013/05/292304907_c4ebbb6020_b.jpg" width="1024" height="681" srcset="https://gohatke.kreativlabs.com/files/2013/05/292304907_c4ebbb6020_b.jpg 1024w, https://gohatke.kreativlabs.com/files/2013/05/292304907_c4ebbb6020_b-300x199.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+![5-steps-shamelessness](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/05/292304907_c4ebbb6020_b.jpg)
+
+![5-steps-shamelessness](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/05/292304907_c4ebbb6020_b.jpg)
 
 Photo Credit: [CarbonNYC][2] via [Compfight][3] [cc][4]
 

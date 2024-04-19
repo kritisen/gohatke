@@ -74,7 +74,7 @@ The answer lies in the simple fact that the world is drastically changing. Earli
 
 However, the **power of thinking** will never be obsolete. Einstein&#8217;s quote sums it up all too well: &#8220;Imagination is more important than knowledge.&#8221;
 
-![Albert-Einstein(https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/s138_imagination_is_more_important_than_knowledge_albert_einstein_sticker.png)
+![Albert-Einstein](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/s138_imagination_is_more_important_than_knowledge_albert_einstein_sticker.png)
 
 So the person contemplating a PhD degree can go ahead with his plans. _But that person should resolve to do a &#8220;smart&#8221; PhD._ Instead of knowledge, one should concentrate on approach. The technology that a PhD works with during his/her studies may become obsolete (or it may become cheaper to get that same work through outsourcing). But the mindset to solve a challenging problem that one builds during a &#8220;smart&#8221; PhD is something that cannot be outsourced. A &#8220;smart&#8221; PhD should be resourceful and find new ways of conducting / applying his/her research. The &#8220;smart&#8221; PhD should not follow on paths set by seniors, because those paths may become obsolete very quickly.
 

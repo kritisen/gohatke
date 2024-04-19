@@ -87,8 +87,8 @@ Let us take a few examples from our earlier list:
     Well now we know why all these writers pursued engineering or MBA. But I still did not answer the original question &#8212; did those degrees help these authors to write their books?
     
     First let us look at the contents of some of the best-sellers. Arnab Ray&#8217;s &#8216;The Mine&#8217; is a horror story set in a mine. Amish Tripathi&#8217;s Meluha trilogy is semi-mythology semi-fiction as it retells the story of a nomad called Shiva (name sound familiar?). Ashwin Sanghvi narrates the original story of the great Chanakya, and then retells the same in a modern setting. Chetan Bhagat incorporates his experiences in IIT and IIM into his books, but with heavy dollops of fantastical imagination (see infographic below).
-    
-    [<img decoding="async" class="alignnone  wp-image-688" title="laid_pbty" src="http://gohatke.kreativlabs.com/files/2013/01/laid_pbty-1024x665.png" alt="" width="800" srcset="https://gohatke.kreativlabs.com/files/2013/01/laid_pbty-1024x665.png 1024w, https://gohatke.kreativlabs.com/files/2013/01/laid_pbty-300x194.png 300w" sizes="(max-width: 1024px) 100vw, 1024px" />][4]
+
+![laid_pbty](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/01/laid_pbty.png)
     
     The bottom-line &#8212; engineering or MBA ain&#8217;t gonna help these guys. It&#8217;s pure imagination for some, grueling historical research for another, and for some, a chance conversation with a beautiful stranger on a train journey (Chetan Bhagat&#8217;s &#8216;One Night @ The Call Center&#8217;, or was that imaginary too?)
     

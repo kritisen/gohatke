@@ -20,7 +20,7 @@ Frustrated with your engineering degree?
 
 Do not worry if your GPA is low. Think about the one course or project that you enjoyed. You might be able to make a great career out of that one course.
 
-
+[Listen to the podcast](https://soundcloud.com/kritisen/frustrated-engineering-one-course)
 
 Hey there!
 
@@ -28,13 +28,13 @@ Last time I spoke about the most common question on my blog. That was from peopl
 
 Today I&#8217;m gonna speak about the second most common question on my blog and that comes from people in the third or fourth year of their engineering college. The question goes something like this,
 
-Dear sir, I am totally bored with my engineering degree. I am in my fourth year studying Information Technology and I just hate it. I don&#8217;t know why I joined this course, I don&#8217;t know what I should do as a career, please advise what should I do to get out of this.
+> Dear sir, I am totally bored with my engineering degree. I am in my fourth year studying Information Technology and I just hate it. I don&#8217;t know why I joined this course, I don&#8217;t know what I should do as a career, please advise what should I do to get out of this.
 
 I have one important input to these folks. That is, while you think you are really frustrated with your entire engineering education, keep one particular thing in mind. Your engineering education is created as a homogenized piece of material that has been drafted many years back. The folks who drafted it did not really pay much attention to making it appealing. In short, it is a pretty boring piece of sh** that you&#8217;re going through.
 
 Now I want to ask you this one question:
 
-In your entire engineering degree did you find one particular project or course that was really interesting to you?
+> In your entire engineering degree did you find one particular project or course that was really interesting to you?
 
 In fact I would always suggest that projects are a better sign of your interest in engineering than courses. Courses are typically evaluated with exams, which have really nothing to do with the real world. So the take away question to you really is – “Did you find any interest in any part of your entire engineering degree?” Maybe it was a tiny fraction of your entire coursework, but that one small thing might let you shape a career out of that.
 
@@ -44,7 +44,7 @@ And then the person joins this course. 80% of the course is comprised of studyin
 
 So when it comes to your life choices ask yourself this question:
 
-Are you hating every part of engineering i.e are you just not cut for it? Are you sure you want to move away from engineering completely? Or is there one particular course, one particular type of work, one particular project that you felt you were good at?
+> Are you hating every part of engineering i.e are you just not cut for it? Are you sure you want to move away from engineering completely? Or is there one particular course, one particular type of work, one particular project that you felt you were good at?
 
 And then you might find something interesting from there. I&#8217;ll come come back soon with more suggestions. In summary for this post, my suggestion to you is &#8211; don&#8217;t think of your cumulative GPA (or even your major degree). Think of that one thing that might be of interest. You can potentially make a career out of that.
 

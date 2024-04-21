@@ -16,6 +16,8 @@ categories:
 
 ![bored](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2017/10/bored-16811_1920.jpg)
 
+[Listen to the podcast](https://soundcloud.com/kritisen/bored-with-engineering-3-options) 
+
 The number one question on my blog is something like this – 
 
 “Dear sir, I&#8217;m working in the second year of my job in a multinational company and I hate my job. I finished engineering and I&#8217;ve been working here but I have no interest in this. I think I should be doing something different, something like writing, designing, traveling&#8230; I don&#8217;t know what I should do. Should I stick to my boring job or should I leave this and try something else? Please advise I&#8217;m really stuck.&#8221;
@@ -55,11 +57,9 @@ I learned this the hard way, I also at some point felt that engineering was supe
 
 So then to summarize my first advice &#8211; 
 
-if you have other interests build a portfolio. 
-
-Second advice &#8211; see if you&#8217;re going to do an MBA and if you want to do that just do it don&#8217;t you know think about you know other interests for now. 
-
-Third advice &#8211; do you really hate engineering or are you just stuck in a bad place. 
+1. if you have other interests build a portfolio. 
+2. Second advice &#8211; see if you&#8217;re going to do an MBA and if you want to do that just do it don&#8217;t you know think about you know other interests for now. 
+3. Third advice &#8211; do you really hate engineering or are you just stuck in a bad place. 
 
 You will find one of these three pieces of advice will click the most, and that will define what you do with your career at this point.
 

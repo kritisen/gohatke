@@ -17,9 +17,9 @@ Finishing your engineering degree but do not know if this is what you want?
 
 Don&#8217;t fret. Take up a job, start earning and then think about your career. It helps to start thinking as an adult.
 
+[Listen to the podcast](https://soundcloud.com/kritisen/your-career-just-got-started?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) 
 
-
-Hey there, welcome to the [Go Hatke podcast][1] – Episode number 3. In the last episode we talked about the most common or the second most common on my blog. The question came from an engineering student, in the third or fourth year of their engineering degree and that person was frustrated. They didn’t know what to do. I mean this is a very common question, I’m basically summarizing for you. My first suggestion to them is in my previous podcast.
+Hey there, welcome to the Go Hatke podcast – Episode number 3. In the last episode we talked about the most common or the second most common on my blog. The question came from an engineering student, in the third or fourth year of their engineering degree and that person was frustrated. They didn’t know what to do. I mean this is a very common question, I’m basically summarizing for you. My first suggestion to them is in my previous podcast.
 
 In this podcast I talk about one simple thing. Realize that you are just beginning to become an adult.
 

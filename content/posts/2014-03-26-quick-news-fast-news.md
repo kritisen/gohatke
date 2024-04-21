@@ -108,32 +108,32 @@ Bookmark these exceptional online radio sites:
 
 Install these apps:
 
-- <a href="http://www.npr.org/services/mobile/android.php" target="_blank">National Public Radio (NPR) app</a> (iOS and Android) &#8211; for access to programs like: 
-  - &#8220;<a href="http://www.npr.org/programs/all-things-considered/" target="_blank">All Things Considered</a>&#8220;
-  - &#8220;<a href="http://www.npr.org/programs/ted-radio-hour/" target="_blank">TED Radio Hour</a>&#8220;
-  - &#8220;<a href="http://www.npr.org/programs/wait-wait-dont-tell-me/" target="_blank">Wait Wait Don&#8217;t Tell Me</a>&#8220;
-- BBC radio app (<a href="https://itunes.apple.com/ie/app/bbc-iplayer-global/id449130604?mt=8&affId=1529572" target="_blank">iOS</a>, <a href="https://play.google.com/store/apps/details?id=uk.co.bbc.android.iplayerradio&hl=en" target="_blank">Android</a>)
+- [National Public Radio (NPR) app](http://www.npr.org/services/mobile/android.php) (iOS and Android) &#8211; for access to programs like: 
+  - [All Things Considered](http://www.npr.org/programs/all-things-considered/)
+  - [TED Radio Hour](http://www.npr.org/programs/ted-radio-hour/)
+  - [Wait Wait Don&#8217;t Tell Me](http://www.npr.org/programs/wait-wait-dont-tell-me/)
+- BBC radio app ([iOS](https://itunes.apple.com/ie/app/bbc-iplayer-global/id449130604?mt=8&affId=1529572), [Android](https://play.google.com/store/apps/details?id=uk.co.bbc.android.iplayerradio&hl=en))
 
 ### Step 4. Listen to editorials {#Step_Editorials}
 
 ![expertOpinions](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/004_expertOpinions.jpg)
 
 - Audio posts titled &#8216;_Special Reports_&#8216; on <a href="http://l.economist.com/" target="_blank">Economist radio</a> present every issue&#8217;s cover article.
-- Shows on <a href="http://www.npr.org/" target="_blank">NPR</a> like <a href="http://www.npr.org/programs/all-things-considered/" target="_blank">All Things Considered</a>, <a href="http://www.npr.org/programs/weekend-edition-saturday/" target="_blank">Weekend Edition Saturday</a> and <a href="http://www.npr.org/programs/weekend-edition-sunday/" target="_blank">Sunday</a>
+- Shows on [NPR](http://www.npr.org/) like [All Things Considered](http://www.npr.org/programs/all-things-considered/), [Weekend Edition Saturday](http://www.npr.org/programs/weekend-edition-saturday/) and [Sunday](http://www.npr.org/programs/weekend-edition-sunday/)
 
 ### Step 5. Listen to TED radio hour {#Step_TEDRadioHour}
 
 ![TED_radioHour](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/TED_radioHour.jpg)
 
-NPR&#8217;s <a href="http://www.npr.org/programs/ted-radio-hour/" target="_blank">TED radio hour</a> distills the best of TED talks into hour long episodes. Ideal listening material for long commutes/drives.
+NPR&#8217;s [TED radio hour](http://www.npr.org/programs/ted-radio-hour/) distills the best of TED talks into hour long episodes. Ideal listening material for long commutes/drives.
 
 ### Step 6. Use LinkedIn for news {#Step_LinkedIn}
 
 ![Photo](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/photo.png)
 
-The <a href="http://www.linkedin.com/mobile" target="_blank">LinkedIn app</a> (or <a href="http://www.linkedin.com/" target="_blank">LinkedIn.com</a>) is a crowd-sourced aggregation of news that is relevant to your particular profession, and to the world of business in general.
+The [LinkedIn app](http://www.linkedin.com/mobile) (or http://www.linkedin.com/) is a crowd-sourced aggregation of news that is relevant to your particular profession, and to the world of business in general.
 
-**Remember**: <a href="http://blog.linkedin.com/2012/10/02/follow-people/" target="_blank">Following</a> thought leaders you like is key.
+**Remember**: [Following](http://blog.linkedin.com/2012/10/02/follow-people/) thought leaders you like is key.
 
 ### Step 7. Subscribe to email newsletters {#Step_EmailNewsletters}
 
@@ -143,8 +143,8 @@ You may dread signing up for email newsletters, but some _niche_ websites and 
 
 Some tips and tricks:
 
-- This step is completely area specific. Some searches that I did recently: <a href="https://www.google.com/search?q=big+data+blogs" target="_blank">&#8216;big data blog&#8217;</a>, <a href="https://www.google.com/search?q=best+writing+blogs" target="_blank">best writing blogs</a> &#8230;
-- When in doubt, &#8216;<em><b>unsubscribe</b></em>&#8216; (every email newsletter worth its salt will have an unsubscribe link embedded in it).
+- This step is completely area specific. Some searches that I did recently: [big data blog](https://www.google.com/search?q=big+data+blogs), [best writing blogs](https://www.google.com/search?q=best+writing+blogs);
+- When in doubt, &#8216;**unsubscribe**&#8216; (every email newsletter worth its salt will have an unsubscribe link embedded in it).
 
 ## 8. Use Twitter {#Step_Twitter}
 
@@ -154,13 +154,13 @@ Some tips and tricks:
 
 - You can tune your Twitter feed the way you want to &#8212; <strong><em>Follow</em></strong> people you like listening to, <strong><em>Unfollow</em></strong> when you get bored.
 - Twitter is the ultimate &#8216;<em>stream of consciousness</em>&#8216; news-source. Don&#8217;t get &#8220;<em>uber whelmed</em>&#8221; &#8212; come in and go as you like.
-- There&#8217;s always something news-worthy here, unless, of course, you start keeping up with the <a href="https://twitter.com/KimKardashian" target="_blank">Kardashians</a>. **Case in point**: Follow the right people.
+- There&#8217;s always something news-worthy here, unless, of course, you start keeping up with the Kardashians. **Case in point**: Follow the right people.
 
 ### 9. Have Some Fun {#Step_WaitWait}
 
 ![Wait_wait](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/009_waitWait.jpg)
 
-<a href="http://www.npr.org/programs/wait-wait-dont-tell-me/" target="_blank">Wait Wait Don&#8217;t Tell Me</a> is NPR&#8217;s weekly news quiz. If you ever found news to be boring, this show is bound to change your opinion of news. This show is an hour-long roller coaster of fun, but also packs a substantial dosage of news and information.
+[Wait Wait Don&#8217;t Tell Me](http://www.npr.org/programs/wait-wait-dont-tell-me/) is NPR&#8217;s weekly news quiz. If you ever found news to be boring, this show is bound to change your opinion of news. This show is an hour-long roller coaster of fun, but also packs a substantial dosage of news and information.
 
 #### Added bonus:
 

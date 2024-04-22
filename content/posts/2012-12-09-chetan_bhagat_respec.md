@@ -10,7 +10,7 @@ categories:
   - Comic
 
 ---
-[<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2012/12/laid_pbty-1024x665.jpg" alt="" title="laid_pbty" width="1024" height="665" class="alignnone size-large wp-image-664" srcset="https://gohatke.kreativlabs.com/files/2012/12/laid_pbty-1024x665.jpg 1024w, https://gohatke.kreativlabs.com/files/2012/12/laid_pbty-300x194.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+![Laid_Pbty](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/laid_pbty.jpg)
 
 At GoHatke, we respect Chetan Bhagat for his fantastic imagination. We truly do.
 

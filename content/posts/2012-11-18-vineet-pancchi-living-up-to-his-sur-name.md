@@ -12,7 +12,9 @@ tags:
   - member_vineet_pancchi
 
 ---
-[<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2012/11/1330212.jpg" alt="" title="1330212" width="449" height="449" class="alignnone size-full wp-image-654" srcset="https://gohatke.kreativlabs.com/files/2012/11/1330212.jpg 449w, https://gohatke.kreativlabs.com/files/2012/11/1330212-290x290.jpg 290w, https://gohatke.kreativlabs.com/files/2012/11/1330212-300x300.jpg 300w, https://gohatke.kreativlabs.com/files/2012/11/1330212-50x50.jpg 50w" sizes="(max-width: 449px) 100vw, 449px" />][1]
+![Why_Not](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/11/1330212.jpg)
+
+![Why_Not](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/11/1330212.jpg)
 
 For ages, man has aspired to fly free like a bird. Through the unique story of his life and career, Mr. Vineet Pancchi <span style="text-decoration: underline;">has</span> achieved that dream.
 

@@ -30,7 +30,7 @@ tags:
   - spotlight
 
 ---
-<img decoding="async" src="http://gohatke.kreativlabs.com/files/2011/11/tf2_engineer_by_cutekakashi.jpg" alt="Featured image" width="500" />
+![CutekaKashi](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/tf2_engineer_by_cutekakashi.jpg)
 
 Let&#8217;s face it. Many of us yearn to do something outside our 9-5 job. Some of us want to open their own business, some want to write a novel, some just want to paint beautiful paintings. So many times, the artist / writer / entrepreneur hiding in us gets lost and never gets a chance to shine forth. To avoid this in our personal lives, it is extremely helpful to draw inspiration from people who faced similar challenges and overcame them.
 
@@ -52,7 +52,7 @@ Devendra Purbiya left his day-job in computer engineering to pursue his passion 
 
 ### **Unconventional Post-Engineering Career #3: Be a Social Entrepreneur**
 
-<img decoding="async" src="http://gohatke.kreativlabs.com/files/2011/11/swapnil.jpg" alt="Swapnil Kant Dixit" />  
+![Swapnil](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/swapnil.jpg)
 After graduating with a B. Arch. degree, Swapnil Dixit joined/co-founded something completely unique &#8211; the Tata Jagriti Yatra,  “an annual train journey that that takes hundreds of India’s highly motivated youth (&#8230;) between the ages of 20-25 and experienced professionals with age above 25, on a eighteen day national odyssey, introducing them to unsung heroes of India.”
 
 [Read more about Swapnil.][4]
@@ -69,12 +69,12 @@ Truly remarkable! Read more about Anshul [here][5].
 
 ### **Unconventional Post-Engineering Career #5: Be a Film-Maker**
 
-<img decoding="async" src="http://gohatke.kreativlabs.com/files/2011/11/arunabh.jpg" alt="Arunabh Kumar Film-Maker" width="200pixels" />  
+![Arunabh](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/arunabh.jpg)
 Arunabh Kumar&#8217;s transition from engineering to film direction is explained in his typically brilliant style in his TED Talk. [To watch the talk and see all posts mentioning Arunabh on this site, click here.][6]
 
 ### **Unconventional Post-Engineering Career #6: Be a Health Policy Specialist**
 
-<img decoding="async" src="http://gohatke.kreativlabs.com/files/2011/11/debjeetSen.jpeg" alt="Health Policy: Debjeet Sen" width="200pixels" />  
+![Debjeet](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/debjeetSen.jpeg)  
 Topper in Biotech **to** Masters in Public Administration **to** Health policy specialist, Debjeet Sen&#8217;s transition is a great example.  
 [Read more about Debjeet][7].
 

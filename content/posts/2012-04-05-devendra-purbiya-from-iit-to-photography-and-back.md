@@ -16,6 +16,8 @@ tags:
   - member_devendra_purbiya
 
 ---
+![illuminati_cover](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/illuminati_cover.jpg)
+
 <div style="width:595px" id="__ss_12286915">
   <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/gohatke/devendra-purbiya-from-iit-to-photography-and-back" title="Devendra Purbiya: From IIT to Photography and Back" target="_blank">Devendra Purbiya: From IIT to Photography and Back</a></strong> </p> 
   

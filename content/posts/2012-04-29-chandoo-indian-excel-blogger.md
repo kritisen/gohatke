@@ -24,13 +24,15 @@ tags:
   - webdesign
 
 ---
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-644" title="chandoo_panel1" src="http://gohatke.kreativlabs.com/files/2012/04/chandoo_panel11.png" alt="" width="803" height="618" srcset="https://gohatke.kreativlabs.com/files/2012/04/chandoo_panel11.png 803w, https://gohatke.kreativlabs.com/files/2012/04/chandoo_panel11-300x230.png 300w" sizes="(max-width: 803px) 100vw, 803px" />
+![Chandoo_Panel1](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/chandoo_panel1.png)
 
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-645" title="chandoo_panel2" src="http://gohatke.kreativlabs.com/files/2012/04/chandoo_panel2.png" alt="" width="957" height="607" srcset="https://gohatke.kreativlabs.com/files/2012/04/chandoo_panel2.png 957w, https://gohatke.kreativlabs.com/files/2012/04/chandoo_panel2-300x190.png 300w" sizes="(max-width: 957px) 100vw, 957px" /> 
+![Chandoo_Panel11](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/chandoo_panel11.png)
 
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-646" title="chandoo_panel3" src="http://gohatke.kreativlabs.com/files/2012/04/chandoo_panel3.png" alt="" width="925" height="607" srcset="https://gohatke.kreativlabs.com/files/2012/04/chandoo_panel3.png 925w, https://gohatke.kreativlabs.com/files/2012/04/chandoo_panel3-300x196.png 300w" sizes="(max-width: 925px) 100vw, 925px" /> 
+![Chandoo_Panel1](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/chandoo_panel1.png)
 
-<img loading="lazy" decoding="async" class="alignnone size-full wp-image-647" title="chandoo_panel4" src="http://gohatke.kreativlabs.com/files/2012/04/chandoo_panel4.png" alt="" width="827" height="607" srcset="https://gohatke.kreativlabs.com/files/2012/04/chandoo_panel4.png 827w, https://gohatke.kreativlabs.com/files/2012/04/chandoo_panel4-300x220.png 300w" sizes="(max-width: 827px) 100vw, 827px" /> 
+![Chandoo_Panel3](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/chandoo_panel3.png)
+
+![Chandoo_Panel4](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/chandoo_panel4.png)
 
 [Storyboard credits: Tannistha Maiti and Kriti Sen Sharma]
 

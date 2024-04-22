@@ -57,7 +57,7 @@ For those of you who have headed over here from Chandoo&#8217;s EXCEL blog, Chan
 [<img loading="lazy" decoding="async" class="alignnone size-full wp-image-561" title="chandoo-blog-logo" src="http://gohatke.kreativlabs.com/files/2012/03/chandoo-blog-logo.png" alt="" width="229" height="62" />][1]
 
 Here&#8217;s an intro about **Purnachandra Rao Duggirala a.k.a. Chandoo** from his [Pagalguy interview in 2010][2]:  
-[<img loading="lazy" decoding="async" class="alignleft size-full wp-image-633" title="chandoo-pointy-haired-dilbert-small-about-photo" src="http://gohatke.kreativlabs.com/files/2012/04/chandoo-pointy-haired-dilbert-small-about-photo.jpg" alt="" width="140" height="188" />][3]  
+![chandoo-pointy](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/chandoo-pointy-haired-dilbert-small-about-photo.jpg)
 &#8220;_Four years after getting a campus placement at TCS, Chandoo quit his job in April 2010 to run a Microsoft Excel-training startup he had built on the side doing what many of us do non-seriously — blogging. Last month, Chandoo’s lean two-member blog ‘Chandoo.org’ recorded revenues of $100,000, justifying his decision to quit and be completely on his own._&#8221;
 
 That figure has gone up to $450,000 per annum in the year Jan 2010-Dec 2011. Seriously, $450,000! What the BLEEP!
@@ -68,13 +68,13 @@ GoHatke got a chance to speak with Chandoo, and we had 2 burning questions for h
 
 ## On managing job and a side-business
 
-[<img loading="lazy" decoding="async" class="alignleft size-full wp-image-565" title="50283_109674419146236_439253393_n" src="http://gohatke.kreativlabs.com/files/2012/03/50283_109674419146236_439253393_n-e1333167743406.jpg" alt="" width="48" height="48" />][4] **GoHatke:** Before you quit your job to pursue your website fully, you maintained both your blog and your job. During these 2-3 years, you were becoming increasingly &#8216;awesome&#8217; in EXCEL. But were you maintaining the same awesomeness in your job? For example, were your managers happy with you?
+![GoHatke](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/03/50283_109674419146236_439253393_n.jpg) **GoHatke:** Before you quit your job to pursue your website fully, you maintained both your blog and your job. During these 2-3 years, you were becoming increasingly &#8216;awesome&#8217; in EXCEL. But were you maintaining the same awesomeness in your job? For example, were your managers happy with you?
 
 > &#8230; Was Chandoo maintaining the same awesomeness in his job as in his blog?
 
 &#8212;&#8212;
 
-[<img loading="lazy" decoding="async" class="alignleft size-full wp-image-563" title="chandoo" src="http://gohatke.kreativlabs.com/files/2012/03/chandoo.png" alt="" width="48" height="62" />][5] **Chandoo&#8217;s Answer:** Some people think doing work and business hampers one or both. But my job was in business analysis and project management. I needed to use EXCEL and Powerpoint pretty regularly. Basically my job motivated me to learn new things in EXCEL, and I would come home and blog about it&#8230; In fact, my bosses and clients were very appreciative of my EXCEL skills. Also &#8216;moonlighting&#8217; was allowed in my company so I was not going against any rules.
+![Chandoo](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/03/chandoo.png) **Chandoo&#8217;s Answer:** Some people think doing work and business hampers one or both. But my job was in business analysis and project management. I needed to use EXCEL and Powerpoint pretty regularly. Basically my job motivated me to learn new things in EXCEL, and I would come home and blog about it&#8230; In fact, my bosses and clients were very appreciative of my EXCEL skills. Also &#8216;moonlighting&#8217; was allowed in my company so I was not going against any rules.
 
 I loved my job quite a lot. But I decided to quit because I realized I deserved to spend more time with my family&#8230;
 
@@ -89,13 +89,13 @@ Can&#8217;t see the Audio player? [Listen to Chandoo&#8217;s answer here][6].
 
 ## On childhood experiences
 
-[<img loading="lazy" decoding="async" class="alignleft size-full wp-image-565" title="50283_109674419146236_439253393_n" src="http://gohatke.kreativlabs.com/files/2012/03/50283_109674419146236_439253393_n-e1333167743406.jpg" alt="" width="48" height="48" />][4] **GoHatke:** From very early on, you wanted to do something on your own, start your own business. So what childhood experiences influenced you? How were you different from your school or college-mates?
+![GoHatke](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/03/50283_109674419146236_439253393_n.jpg) **GoHatke:** From very early on, you wanted to do something on your own, start your own business. So what childhood experiences influenced you? How were you different from your school or college-mates?
 
 > &#8230; What were Chandoo&#8217;s childhood experiences that shaped his life?
 
 &#8212;&#8212;
 
-<img loading="lazy" decoding="async" class="alignleft size-full wp-image-563" title="chandoo" src="http://gohatke.kreativlabs.com/files/2012/03/chandoo.png" alt="" width="48" height="62" /> **Chandoo:** In 7th or 8th standard, read an article about Bill Gates. At that time, I did not know what a computer is. But I was fascinated to think how 1 person can make millions of people happy. It might seem like a cliche, but that shaped my interest towards technology and starting my own company&#8230;
+![Chandoo](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/03/chandoo.png) **Chandoo:** In 7th or 8th standard, read an article about Bill Gates. At that time, I did not know what a computer is. But I was fascinated to think how 1 person can make millions of people happy. It might seem like a cliche, but that shaped my interest towards technology and starting my own company&#8230;
 
 <figure id="attachment_561" aria-describedby="caption-attachment-561" style="width: 229px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" class="size-full wp-image-561 " title="chandoo-blog-logo" src="http://upload.wikimedia.org/wikipedia/commons/2/2a/Bill_Gates_in_WEF_%2C2007.jpg" alt="" width="229" height="306" /><figcaption id="caption-attachment-561" class="wp-caption-text">Bill Gates’s success story inspired Chandoo to pursue technology and to start his own company.</figcaption></figure>
 

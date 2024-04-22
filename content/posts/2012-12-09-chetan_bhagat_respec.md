@@ -12,6 +12,8 @@ categories:
 ---
 ![Laid_Pbty](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/laid_pbty.jpg)
 
+![Laid_Pbty](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/laid_pbty.jpg)
+
 At GoHatke, we respect Chetan Bhagat for his fantastic imagination. We truly do.
 
  [1]: http://gohatke.kreativlabs.com/files/2012/12/laid_pbty.jpg

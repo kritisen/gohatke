@@ -14,6 +14,7 @@ tags:
   - social_entrepreneurship
 
 ---
+![10-Ayaz](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/JY11-10-Ayaz-1-of-131.jpg)
 ![Swapnil](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/swapnil.jpg)  
 Swapnil Kant Dixit (IIT Kharagpur, batch of 2005) was always unique in his thoughts and actions. While most students got stressed with exams, hostel duties, IIM/GRE applications &#8211; one would find Swapnil practicing for upcoming music / drama competitions&#8230; and winning them. After graduating with a B. Arch. degree, he joined/co-founded something completely unique &#8211; the Tata Jagriti Yatra, “an annual train journey that that takes hundreds of India’s highly motivated youth (&#8230;) between the ages of 20-25 and experienced professionals with age above 25, on a eighteen day national odyssey, introducing them to unsung heroes of India.”
 

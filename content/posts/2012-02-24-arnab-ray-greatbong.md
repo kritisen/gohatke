@@ -11,8 +11,9 @@ tags:
   - member_arnab_ray
 
 ---
-[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-167" title="Arnab-Ray" src="http://gohatke.kreativlabs.com/files/2011/10/Arnab-Ray.jpg" alt="" width="500" height="332" srcset="https://gohatke.kreativlabs.com/files/2011/10/Arnab-Ray.jpg 500w, https://gohatke.kreativlabs.com/files/2011/10/Arnab-Ray-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+![Arnab-Ray](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/10/Arnab-Ray.jpg)
 
+![Arnab-Ray](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/10/Arnab-Ray.jpg)
 Arnab Ray graduated from Jadavpur University, did his Ph.D. at State University of New York at Stony Brook, and is currently a research scientist at University of Maryland. After working full-time in his day job, he comes back home and dons his superhero costume. He becomes &#8216;greatbong&#8217;. ([greatbong.net][2] is a blog maintained by Arnab Ray which was voted best &#8220;Indiblog of the Year&#8221; at Indibloggies in 2006 and 2009. Arnab also wrote a bestselling book about his blogging career.)
 
 Arnab is a great example of a person who maintains both his engineering career and passion of writing.

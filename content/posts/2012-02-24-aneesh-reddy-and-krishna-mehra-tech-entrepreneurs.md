@@ -15,7 +15,9 @@ tags:
   - tech_entrepreneursip
 
 ---
-[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-175" title="04capillary-tech1" src="http://gohatke.kreativlabs.com/files/2011/11/04capillary-tech1.jpg" alt="" width="370" height="493" />][1]
+![Capillary-logo](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/CAPILLARY_LOGO.png)
+
+![Capillary-tech](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/04capillary-tech1.jpg)
 
 Now this one is one of the most conventional careers among engineers &#8211; i.e. opening a tech startup. However only a handful dare to take the entrepreneurial route. Most remain content by doing jobs. Yet a big salute must go out to people who go that extra mile to &#8220;create jobs&#8221; instead.
 

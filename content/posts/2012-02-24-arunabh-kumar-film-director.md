@@ -14,7 +14,9 @@ tags:
   - member_arunabh_kumar
 
 ---
-<img decoding="async" src="http://gohatke.kreativlabs.com/files/2011/11/arunabh.jpg" alt="Arunabh Kumar Film Director" />Now this one is definitely one of the least probable careers after engineering &#8212; a film-maker. Now how does one pull that off? Without any formal training in the subject, or without any family backing in Bollywood, and especially when watching movies was strictly forbidden during his childhood, how did Arunabh pull this off? For those of us who know Arunabh, or were witness to Arunabh&#8217;s antics in college, it does not come as that much of a surprise. Arunabh was always up to something &#8211; either some mischief, or some act of daring. Arunabh becoming a film-maker probably follows in the same line of acts of daring.
+![Arunabh](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/arunabh.jpg)
+
+![Arunabh](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/arunabh.jpg)Now this one is definitely one of the least probable careers after engineering &#8212; a film-maker. Now how does one pull that off? Without any formal training in the subject, or without any family backing in Bollywood, and especially when watching movies was strictly forbidden during his childhood, how did Arunabh pull this off? For those of us who know Arunabh, or were witness to Arunabh&#8217;s antics in college, it does not come as that much of a surprise. Arunabh was always up to something &#8211; either some mischief, or some act of daring. Arunabh becoming a film-maker probably follows in the same line of acts of daring.
 
 All in all, Arunabh&#8217;s career move is a gargantuan step. His largest act of daring so far. Much more than when he did an Ajay Devgan like stunt by standing with one leg each on 2 moving bicycles &#8211; but that is a different story.
 

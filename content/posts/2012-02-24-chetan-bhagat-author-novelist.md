@@ -14,7 +14,9 @@ tags:
   - novelist
 
 ---
-[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-174" title="2-States-Chetan-Bhagat" src="http://gohatke.kreativlabs.com/files/2011/11/2-States-Chetan-Bhagat.jpg" alt="" width="600" height="300" />][1]
+![Chetan-Bhagat](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/chetan_bhagat_05-e1331427439675.jpg)
+
+![2-states-Chetan](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/2-States-Chetan-Bhagat.jpg)
 
 Now this story is the absolute master of all unconventional post-engineering careers. Chetan Bhagat became a household name with his bestselling book, Five Point Someone. Not only was it a great read &#8211; it was a book about life in an engineering college, and how the education system prefers stereotypes instead of innovative  
 thinkers. The book influenced the movie, &#8216;3 Idiots&#8217;, which also delivered a great message for people to follow the career of their dreams.

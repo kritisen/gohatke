@@ -14,7 +14,7 @@ tags:
   - member_arnab_ray
 
 ---
-[<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2011/11/The-Education-System-in-America-290x290.jpg" alt="" title="The-Education-System-in-America" width="290" height="290" class="alignnone size-thumbnail wp-image-208" srcset="https://gohatke.kreativlabs.com/files/2011/11/The-Education-System-in-America-290x290.jpg 290w, https://gohatke.kreativlabs.com/files/2011/11/The-Education-System-in-America-50x50.jpg 50w" sizes="(max-width: 290px) 100vw, 290px" />][1]
+![The-Education-System-in-America](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/The-Education-System-in-America.jpg)
 
 ### The following is a true story heard at a TED talk (TEDxIITKgp) by Arnab Ray (one of India&#8217;s top bloggers).
 

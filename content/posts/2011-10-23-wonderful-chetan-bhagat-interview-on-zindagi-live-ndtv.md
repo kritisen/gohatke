@@ -16,6 +16,7 @@ tags:
 
 ---
 ![2-States-Chetan-Bhagat](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/2-States-Chetan-Bhagat-e1331440883708.jpg)
+
 A great interview of the great man!
 
 

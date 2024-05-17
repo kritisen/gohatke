@@ -11,5 +11,6 @@ tags:
   - spotlight
 
 ---
+![Convocation-Speeches](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/09/convocationspeeches.png)
 Fantastic collection of commencement speeches.  
 <http://www.humanity.org/voices/commencements/>

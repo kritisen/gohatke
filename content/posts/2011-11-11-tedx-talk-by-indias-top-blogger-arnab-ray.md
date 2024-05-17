@@ -22,6 +22,7 @@ tags:
   - member_arnab_ray
 
 ---
+![TEDx-logo](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/logo.png)
 TEDx Talk by India&#8217;s Top Blogger Arnab Ray&#8230;
 
 &#8230;who also happens to be a full-time research scientist.

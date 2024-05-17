@@ -11,6 +11,8 @@ categories:
   - Uncategorized
 
 ---
+![Four-Hour-Work-Week](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/03/Four-Hour-Work-Week-Expanded-and-Updated1.jpg)
+
 Here are a few books recommended by the Team GoHatke, and by people featured on this site. These books serve as great sources of advice and are filled with useful tips. The books are sure to jump-start you on your Hatke path.
 
 ## Recommended by Team Hatke</a></p> 

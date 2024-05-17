@@ -17,7 +17,10 @@ tags:
   - spotlight
 
 ---
-[<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2011/08/pic1-300x187.jpg" alt="" title="pic1" width="300" height="187" class="alignnone size-medium wp-image-89" srcset="https://gohatke.kreativlabs.com/files/2011/08/pic1-300x187.jpg 300w, https://gohatke.kreativlabs.com/files/2011/08/pic1-1024x639.jpg 1024w, https://gohatke.kreativlabs.com/files/2011/08/pic1.jpg 1893w" sizes="(max-width: 300px) 100vw, 300px" />][1]  
+![3-by-3 Principle](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/08/pic1.jpg)
+
+![3-by-3 Principle](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/08/pic1.jpg)
+
 In general, things you do in life fall into 3 categories:
 
   1. <span style="color: #ff0000;"><span style="color: #000000;">Things you</span> Have to Do</span>
@@ -59,7 +62,7 @@ If you work as a programmer in a company and are getting paid for it, you satisf
 
 &nbsp;
 
-<figure id="attachment_90" aria-describedby="caption-attachment-90" style="width: 584px" class="wp-caption aligncenter">[<img loading="lazy" decoding="async" class="size-large wp-image-90 " title="3-by-3-Rule" src="http://gohatke.kreativlabs.com/files/2011/08/pic2-1024x186.jpg" alt="Maximize your life's potential by this simple rule" width="584" height="106" srcset="https://gohatke.kreativlabs.com/files/2011/08/pic2-1024x186.jpg 1024w, https://gohatke.kreativlabs.com/files/2011/08/pic2-300x54.jpg 300w" sizes="(max-width: 584px) 100vw, 584px" />][2]<figcaption id="caption-attachment-90" class="wp-caption-text">Try to do work which satisfies all 3 conditions.</figcaption></figure>
+![3-by3-Rule](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/08/pic2.jpg) <figcaption id="caption-attachment-90" class="wp-caption-text">Try to do work which satisfies all 3 conditions.</figcaption></figure>
 
 <span style="color: #ff6600;"><span style="color: #000000;">But maybe you do not want to do this all your life. Then your score remains at 2/3, and you could attain even higher career satisfaction and fulfillment if you did (and got paid for) something which you were passionate about.</span></span>
 

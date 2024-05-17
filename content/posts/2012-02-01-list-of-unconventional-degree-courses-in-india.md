@@ -13,6 +13,7 @@ tags:
   - lists
 
 ---
+![Jump-e](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/jump-e1330521072780.jpg)
 **Entrepreneurship**
 
   * Jagriti Yatra: <http://www.jagritiyatra.com/>  
@@ -24,7 +25,7 @@ tags:
       * **Communication Design**: Graphic Design, Animation Film Design, Film & Video Communication, Exhibition (Spatial) Design.
       * [Read more at the article in The Hindu][1] (Scroll to bottom of article) 
     
-     [<img decoding="async" class="alignnone  wp-image-323" title="jump" src="http://gohatke.kreativlabs.com/files/2012/02/jump-e1330521072780.jpg" alt="" width="500" srcset="https://gohatke.kreativlabs.com/files/2012/02/jump-e1330521072780.jpg 1200w, https://gohatke.kreativlabs.com/files/2012/02/jump-e1330521072780-300x200.jpg 300w, https://gohatke.kreativlabs.com/files/2012/02/jump-e1330521072780-1024x682.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" />][2]
+     ![Jump-e](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/jump-e1330521072780.jpg)
     
     #### If you know of other unconventional degree courses offered in India
     

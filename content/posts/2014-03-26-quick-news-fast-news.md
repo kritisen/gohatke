@@ -7,7 +7,7 @@ excerpt: |
   |
     Are you the kind of person, who keeps saying to yourself, "I know I should be keeping up with the news, but I just don't find the time!"? If you answered YES, then you must read this article to learn the THREE SECRETS to world (news) domination.
 url: /2014/03/26/quick-news-fast-news/
-featured_image: http://gohatke.kreativlabs.com/files/2013/12/512px-Neon_sign_NEWS.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/512px-Neon_sign_NEWS.jpg
 categories:
   - Actionable
   - Featured
@@ -177,29 +177,29 @@ A comprehensive list of good news-sites is beyond the scope of this piece, but h
 - [LifeHacker](www.lifehacker.com)
 - Websites of all respectable traditional newspaper houses
 
- [1]: http://gohatke.kreativlabs.com/files/2012/12/6829349175_7fca760931_z.jpg
- [2]: http://gohatke.kreativlabs.com/files/2012/12/Hexágono_regular.png
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/6829349175_7fca760931_z.jpg
+ [2]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/Hexágono_regular.png
  [3]: #Step_ListenToNews
  [4]: #Step_TEDRadioHour
  [5]: #Step_Editorials
  [6]: #Step_WaitWait
- [7]: http://gohatke.kreativlabs.com/files/2014/03/getPassive.png
- [8]: http://gohatke.kreativlabs.com/files/2014/03/getSubconscious.png
+ [7]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/03/getPassive.png
+ [8]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/03/getSubconscious.png
  [9]: #Step_LinkedIn
  [10]: #Step_Twitter
  [11]: #Step_EmailNewsletters
- [12]: http://gohatke.kreativlabs.com/files/2013/10/001_radio_small.jpg
- [13]: http://gohatke.kreativlabs.com/files/2013/12/003_news_on_browsers.png
+ [12]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/001_radio_small.jpg
+ [13]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/003_news_on_browsers.png
  [14]: http://gounconventional.com/listen-to-all-india-radio-online/
- [15]: http://gohatke.kreativlabs.com/files/2014/02/003_apps.png
+ [15]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/003_apps.png
  [16]: http://www.npr.org/services/mobile/iphone.php
- [17]: http://gohatke.kreativlabs.com/files/2014/02/004_expertOpinions.jpg
- [18]: http://gohatke.kreativlabs.com/files/2013/12/TED_radioHour.jpg
- [19]: http://gohatke.kreativlabs.com/files/2012/12/photo.png
- [20]: http://gohatke.kreativlabs.com/files/2014/02/007_emailNewsletters.jpg
- [21]: http://gohatke.kreativlabs.com/files/2013/12/3376955681_9b50651e44.jpg
- [22]: http://gohatke.kreativlabs.com/files/2014/02/009_waitWait.jpg
- [23]: http://gohatke.kreativlabs.com/files/2014/02/10_readRead_2.jpg
+ [17]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/004_expertOpinions.jpg
+ [18]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/TED_radioHour.jpg
+ [19]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/12/photo.png
+ [20]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/007_emailNewsletters.jpg
+ [21]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/3376955681_9b50651e44.jpg
+ [22]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/009_waitWait.jpg
+ [23]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/02/10_readRead_2.jpg
  [24]: http://www.flickr.com/photos/22605449@N06/6628934195/
  [25]: http://compfight.com
  [26]: http://creativecommons.org/licenses/by/2.0/

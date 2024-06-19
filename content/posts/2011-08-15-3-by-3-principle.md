@@ -4,9 +4,9 @@ author: Kriti Sen Sharma
 type: post
 date: 2011-08-15T02:01:44+00:00
 url: /2011/08/15/3-by-3-principle/
-featured_image: http://gohatke.kreativlabs.com/files/2011/08/pic1.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/08/pic1.jpg
 fs-picture:
-  - http://gohatke.kreativlabs.com/files/2011/08/pic2-w450.jpg
+  - https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/08/pic2-w450.jpg
 categories:
   - Featured
   - Films
@@ -88,5 +88,5 @@ Once you have identified the areas which you &#8220;want to do&#8221; work on, t
 
 There is a vast array of resources for learning anything. There are conventional resources like books, people, Professors, alumni networks. Then there is the Internet. Almost anything and everything can now be learned today. The problem usually is that we are basically a lazy community of people &#8211; we only need to step out of our usual cyber-haunts like Facebook to visit some sites which will aid our learning.
 
- [1]: http://gohatke.kreativlabs.com/files/2011/08/pic1.jpg
- [2]: http://gohatke.kreativlabs.com/files/2011/08/pic2.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/08/pic1.jpg
+ [2]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/08/pic2.jpg

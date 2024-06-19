@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2011-09-25T12:05:45+00:00
 url: /2011/09/25/jrowling-convocation-speech/
-featured_image: http://gohatke.kreativlabs.com/files/2011/09/jkrowling3.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/09/jkrowling3.jpg
 categories:
   - Inspiration
   - Videos

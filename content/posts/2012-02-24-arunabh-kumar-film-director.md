@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2012-02-24T19:38:14+00:00
 url: /2012/02/24/arunabh-kumar-film-director/
-featured_image: http://gohatke.kreativlabs.com/files/2011/11/arunabh-e1330189055800.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/arunabh-e1330189055800.jpg
 categories:
   - Films
 tags:

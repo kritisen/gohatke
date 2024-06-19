@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2013-02-02T18:58:20+00:00
 url: /2013/02/02/master-of-best-seller-administration-1/
-featured_image: http://gohatke.kreativlabs.com/files/2013/02/Slide01.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/Slide01.jpg
 categories:
   - Featured
   - Master-of-Bestseller-Administration
@@ -121,4 +121,4 @@ Let us take a few examples from our earlier list:
  [1]: http://greatbong.net
  [2]: http://gohatke.kreativlabs.com/2011/10/23/wonderful-chetan-bhagat-interview-on-zindagi-live-ndtv/ "Video: Wonderful Chetan Bhagat Interview on Zindagi Live NDTV"
  [3]: http://gohatke.kreativlabs.com/2011/11/21/how-indias-education-system-stifles-creativity-and-originality/ "How India’s Education Sytem Stifles Originality"
- [4]: http://gohatke.kreativlabs.com/files/2013/01/laid_pbty.png
+ [4]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/01/laid_pbty.png

@@ -5,7 +5,7 @@ type: post
 date: 2013-06-14T03:13:00+00:00
 excerpt: We have so many desires and ambitions. The specific desires may be different for each of us. But common to all of us is that we find ourselves running short of time in fulfilling our own aspirations. Between the work-week, and the chore-filled weekend, we never find the time to seek our unique ambitions. But WAIT... What if I told you that we can solve this problem through smarter use of e-mail and Facebook?
 url: /2013/06/14/time-management-dont-check-email-facebook-till-noon/
-featured_image: http://gohatke.kreativlabs.com/files/2013/06/me-life-goals-internet.jpeg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/06/me-life-goals-internet.jpeg
 categories:
   - Actionable
   - time-management

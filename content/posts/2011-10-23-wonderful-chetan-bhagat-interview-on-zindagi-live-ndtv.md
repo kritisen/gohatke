@@ -4,7 +4,7 @@ author: GoHatke
 type: post
 date: 2011-10-23T16:00:33+00:00
 url: /2011/10/23/wonderful-chetan-bhagat-interview-on-zindagi-live-ndtv/
-featured_image: http://gohatke.kreativlabs.com/files/2011/11/2-States-Chetan-Bhagat-e1331440883708.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/2-States-Chetan-Bhagat-e1331440883708.jpg
 Featured Image Size:
   - none
 categories:

@@ -5,13 +5,13 @@ type: post
 date: 2014-09-11T16:15:04+00:00
 draft: true
 url: /?p=1241
-featured_image: http://gohatke.kreativlabs.com/files/2014/09/8718123610_09e70f6d90_z.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/8718123610_09e70f6d90_z.jpg
 categories:
   - Announcements
 
 ---
 The road to pursuing an unconventional career can be a lonely one.  
-[<img loading="lazy" decoding="async" class="aligncenter wp-image-1244 size-full" src="http://gohatke.kreativlabs.com/files/2014/09/walk-alone.png" alt="walk-alone" width="250" height="250" srcset="https://gohatke.kreativlabs.com/files/2014/09/walk-alone.png 250w, https://gohatke.kreativlabs.com/files/2014/09/walk-alone-100x100.png 100w" sizes="(max-width: 250px) 100vw, 250px" />][1]
+[<img loading="lazy" decoding="async" class="aligncenter wp-image-1244 size-full" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/walk-alone.png" alt="walk-alone" width="250" height="250" srcset="https://gohatke.kreativlabs.com/files/2014/09/walk-alone.png 250w, https://gohatke.kreativlabs.com/files/2014/09/walk-alone-100x100.png 100w" sizes="(max-width: 250px) 100vw, 250px" />][1]
 
 Well, not any more!
 
@@ -40,7 +40,7 @@ BTW here&#8217;s what the Forum looks like (Look for the &#8220;**Ask Question**
 
 [Featured image credit: <a href="http://www.flickr.com/photos/epublicist/8718123610/" target="_blank" rel="noopener noreferrer">ePublicist</a>]
 
- [1]: http://gohatke.kreativlabs.com/files/2014/09/walk-alone.png
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/walk-alone.png
  [2]: http://gounconventional.com/forum/
  [3]: http://gounconventional.com/forum/ask
  [4]: http://gounconventional.com/wp-login.php

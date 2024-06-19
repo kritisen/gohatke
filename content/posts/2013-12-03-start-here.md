@@ -5,7 +5,7 @@ type: post
 date: 2013-12-03T23:14:48+00:00
 excerpt: START with any of these articles in this slideshow, or press the START image to see the list of top articles at this site.
 url: /2013/12/03/start-here/
-featured_image: http://gohatke.kreativlabs.com/files/2013/12/8419988105_367cb3d1f8_c.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/8419988105_367cb3d1f8_c.jpg
 sgt_slide:
   - on
 categories:
@@ -29,7 +29,7 @@ And here&#8217;s a good way to start getting a flavor of the available fare at G
 
 Now, if you like what you read and want to keep reading these inspiring, actionable pieces, [subscribe][6] to the GoHatke mailing list, or LIKE <a href="https://www.facebook.com/gohatke" target="_blank">GoHatke on Facebook</a>. That way, you will be notified of new articles. Don&#8217;t worry&#8230; your email will remain completely secure, and you will not be spammed.
 
- [1]: http://gohatke.kreativlabs.com/files/2013/12/8419988105_367cb3d1f8_c.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/8419988105_367cb3d1f8_c.jpg
  [2]: http://gohatke.kreativlabs.com/2012/03/10/10-unconventional-career-options-after-engineering/ "10 Unconventional Career Options after Engineering"
  [3]: http://gohatke.kreativlabs.com/2013/05/27/five-steps-to-shameless-ness-and-how-it-can-change-your-life/ "Five steps to shameless-ness. And how it can change your life."
  [4]: http://gohatke.kreativlabs.com/2013/03/06/your-ph-is-a-waste-and-what-you-can-do-about-it/ "Your PhD is a waste. And what you can do about it."

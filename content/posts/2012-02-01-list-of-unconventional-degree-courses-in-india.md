@@ -5,7 +5,7 @@ type: post
 date: 2012-02-01T13:13:26+00:00
 excerpt: List of unconventional degree courses in India
 url: /2012/02/01/list-of-unconventional-degree-courses-in-india/
-featured_image: http://gohatke.kreativlabs.com/files/2012/02/jump-e1330521072780.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/jump-e1330521072780.jpg
 categories:
   - Lists
 tags:
@@ -32,4 +32,4 @@ tags:
     &#8230; Please leave a comment with the details of the course below, and we will update the post with the details.
 
  [1]: http://www.thehindu.com/life-and-style/nxg/article2144209.ece
- [2]: http://gohatke.kreativlabs.com/files/2012/02/jump.jpg
+ [2]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/jump.jpg

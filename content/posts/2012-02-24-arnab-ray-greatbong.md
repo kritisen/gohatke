@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2012-02-24T19:31:11+00:00
 url: /2012/02/24/arnab-ray-greatbong/
-featured_image: http://gohatke.kreativlabs.com/files/2011/11/Arnab-Ray.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/Arnab-Ray.jpg
 categories:
   - Blogging
 tags:
@@ -21,6 +21,6 @@ Arnab is a great example of a person who maintains both his engineering career a
 See [Arnab&#8217;s TED talk and all other references in this site][3].  
 [Image credit: http://www.lifestyleblogindia.com/2011/02/may-i-hebb-your-attention-pliss-by-arnab-ray/]
 
- [1]: http://gohatke.kreativlabs.com/files/2011/10/Arnab-Ray.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/10/Arnab-Ray.jpg
  [2]: http://greatbong.net
  [3]: http://gohatke.kreativlabs.com/tag/member_arnab_ray/

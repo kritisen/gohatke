@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2012-02-24T20:59:12+00:00
 url: /2012/02/24/devendra-purbiya-iit-ian-who-clicks/
-featured_image: http://gohatke.kreativlabs.com/files/2011/11/purbiya.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/purbiya.jpg
 categories:
   - Photography
 tags:

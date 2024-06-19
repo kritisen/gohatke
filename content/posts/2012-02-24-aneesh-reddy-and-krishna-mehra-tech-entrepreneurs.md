@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2012-02-24T22:05:57+00:00
 url: /2012/02/24/aneesh-reddy-and-krishna-mehra-tech-entrepreneurs/
-featured_image: http://gohatke.kreativlabs.com/files/2012/02/CAPILLARY_LOGO.png
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/CAPILLARY_LOGO.png
 categories:
   - Mentions
   - Tech Entrepreneurship
@@ -25,5 +25,5 @@ Now this one is one of the most conventional careers among engineers &#8211; i.e
 
 [Image credit: http://www.rediff.com/getahead/slide-show/slide-show-1-achievers-interview-with-capillary-tech-founders/20111104.htm]
 
- [1]: http://gohatke.kreativlabs.com/files/2011/11/04capillary-tech1.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/04capillary-tech1.jpg
  [2]: http://capillary.co.in/about/team

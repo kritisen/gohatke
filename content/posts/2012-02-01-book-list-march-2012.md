@@ -5,7 +5,7 @@ type: post
 date: 2012-02-01T18:22:43+00:00
 excerpt: 'Books recommended by Team Hatke and people featured at the site. This month: "4 Hour Workweek", "The Game Changers", and "Rich Dad Poor Dad"'
 url: /2012/02/01/book-list-march-2012/
-featured_image: http://gohatke.kreativlabs.com/files/2012/03/Four-Hour-Work-Week-Expanded-and-Updated1-e1331751077574.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/03/Four-Hour-Work-Week-Expanded-and-Updated1-e1331751077574.jpg
 categories:
   - Books
   - Uncategorized

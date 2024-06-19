@@ -5,7 +5,7 @@ type: post
 date: 2013-10-08T04:50:24+00:00
 excerpt: What do we do when life makes us question our own capabilities? And what made me write about the life of a troubled American farm-boy? Read on to find out.. Also learn about impostor syndrome. And how every one of us (even the most successful ones) are susceptible to this.
 url: /2013/10/07/impostor-syndrome-or-when-life-gives-you-lemons/
-featured_image: http://gohatke.kreativlabs.com/files/2013/10/world_questions_you1.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/world_questions_you1.jpg
 categories:
   - Belief-system
   - Life-principles
@@ -107,7 +107,7 @@ _**[All names and details are changed in the above transcript as well as [in the
   </p>
 </div>
 
- [1]: http://gohatke.kreativlabs.com/files/2013/10/world_questions_you1.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/world_questions_you1.jpg
  [2]: http://gohatke.kreativlabs.com/2013/09/17/the-farmboy-and-the-piano/ "The Farmboy and The Piano"
- [3]: http://gohatke.kreativlabs.com/files/2013/10/Slide1.jpg
- [4]: http://gohatke.kreativlabs.com/files/2013/10/you_question_world1.jpg
+ [3]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/Slide1.jpg
+ [4]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/you_question_world1.jpg

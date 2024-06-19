@@ -8,7 +8,7 @@ excerpt: |
   
   I give you three options.
 url: /2017/10/07/frustrated-engineering-give-three-options/
-featured_image: http://gohatke.kreativlabs.com/files/2017/10/bored-16811_1920.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2017/10/bored-16811_1920.jpg
 categories:
   - Belief-system
 

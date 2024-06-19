@@ -4,7 +4,7 @@ author: kreativlabs
 type: post
 date: 2011-11-11T02:56:55+00:00
 url: /2011/11/11/tedx-talk-by-indias-top-blogger-arnab-ray/
-featured_image: http://gohatke.kreativlabs.com/files/2011/11/logo.png
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/logo.png
 cc_content_license:
   - Creative Commons Attribution-NoDerivs 3.0 Unported
 cc_content_license_uri:

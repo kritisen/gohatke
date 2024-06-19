@@ -7,7 +7,7 @@ excerpt: |
   |
     "Your PhD degree is a waste". That is the message you might get, after going through the detailed statistical analysis in Jordan Weissmann's article in The Atlantic... While students toil through their PhD-s at minimal pay rates, they have the belief that once their PhD is over, they will get a decent-paying job of their liking. But data released by National Science Foundation shows that unemployment among PhD-s is rising... In such a situation, what does the PhD do?
 url: /2013/03/06/your-phd-is-a-waste-and-what-you-can-do-about-it/
-featured_image: http://gohatke.kreativlabs.com/files/2013/03/4359939963_f082b4ae9c_b.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/4359939963_f082b4ae9c_b.jpg
 sgt_slide:
   - on
 categories:
@@ -99,8 +99,8 @@ Related: [Video: The high-school education system is obsolete.][3]
 
 Photo credit (Angry scientist photo: Photo Credit: [coschda][4] via [Compfight][5] [cc][6])
 
- [1]: http://gohatke.kreativlabs.com/files/2013/03/4359939963_f082b4ae9c_b.jpg
- [2]: http://gohatke.kreativlabs.com/files/2013/03/s138_imagination_is_more_important_than_knowledge_albert_einstein_sticker.png
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/4359939963_f082b4ae9c_b.jpg
+ [2]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/s138_imagination_is_more_important_than_knowledge_albert_einstein_sticker.png
  [3]: http://gohatke.kreativlabs.com/2013/03/05/video-the-high-school-education-system-is-obsolete/ "Video: The high-school education system is obsolete."
  [4]: http://www.flickr.com/photos/22062888@N06/4359939963/
  [5]: http://compfight.com

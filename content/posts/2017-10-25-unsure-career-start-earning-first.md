@@ -5,7 +5,7 @@ type: post
 date: 2017-10-25T19:34:41+00:00
 excerpt: "Finishing your engineering degree but do not know if this is what you want? Don't fret. Take up a job, start earning and then think about your career. It helps to start thinking as an adult."
 url: /2017/10/25/unsure-career-start-earning-first/
-featured_image: http://gohatke.kreativlabs.com/files/2017/10/first-steps.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2017/10/first-steps.jpg
 categories:
   - podcast
 

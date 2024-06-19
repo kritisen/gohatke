@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2015-11-28T03:20:20+00:00
 url: /2015/11/27/return-on-education/
-featured_image: http://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k.jpg
 categories:
   - Belief-system
   - Life-principles
@@ -13,7 +13,7 @@ categories:
 
 ![Chasing the highest return on education](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k.jpg)
 
-[<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k-1024x768.jpg" alt="11696740225_156ed51a29_k" width="1024" height="768" class="aligncenter size-large wp-image-1616" srcset="https://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k-1024x768.jpg 1024w, https://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k-300x225.jpg 300w, https://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+[<img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k-1024x768.jpg" alt="11696740225_156ed51a29_k" width="1024" height="768" class="aligncenter size-large wp-image-1616" srcset="https://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k-1024x768.jpg 1024w, https://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k-300x225.jpg 300w, https://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
 
 Today I chanced upon [an article][2] about a survey of international students in US universities. 
 
@@ -69,7 +69,7 @@ It has been ten years since I graduated, and I now fully appreciate that economi
 
 [Photo credits: via [LendingMemo][4]]
 
- [1]: http://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k.jpg
  [2]: http://www.npr.org/sections/ed/2015/11/18/456353089/u-s-colleges-see-a-big-bump-in-international-students
  [3]: http://gounconventional.com/2013/02/02/master-of-best-seller-administration-1/
  [4]: https://www.flickr.com/photos/lendingmemo/11696740225

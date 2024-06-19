@@ -5,7 +5,7 @@ type: post
 date: 2012-03-10T22:43:07+00:00
 excerpt: "If you want to look beyond traditional careers after engineering, here's a list of 10 unconventional (hatke) careers pursued by engineers."
 url: /2012/03/10/10-unconventional-career-options-after-engineering/
-featured_image: http://gohatke.kreativlabs.com/files/2011/11/tf2_engineer_by_cutekakashi.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/tf2_engineer_by_cutekakashi.jpg
 Featured Image Size:
   - none
 categories:
@@ -84,7 +84,7 @@ Aniket Aga, B. Tech Electronics, Ph.D Anthropology. Curious combination right? [
 
 ### **Unconventional Post-Engineering Career #8: Be an Entrepreneur**
 
-[<img decoding="async" class="alignnone size-full wp-image-175" title="04capillary-tech1" src="http://gohatke.kreativlabs.com/files/2011/11/04capillary-tech1.jpg" alt="" width="200pixels" />][9]  
+[<img decoding="async" class="alignnone size-full wp-image-175" title="04capillary-tech1" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/04capillary-tech1.jpg" alt="" width="200pixels" />][9]  
 Aneesh Reddy and Krishna Mehra&#8217;s company, Capillary Technologies, is poised to be one of the fastest growing companies in India and the world.
 
 ### **Unconventional Post-Engineering Career #9: Be a Novelist**
@@ -110,7 +110,7 @@ Who knows? Maybe you are the next unconventional career story to be featured her
         If so, read my free e-book on <a href="http://gohatke.kreativlabs.com/book/" title="Extra-Marital Careers: Five Steps to Start the Moonlighting Career You So Desire">how to start an unconventional career along with your regular job</a>.<br /> 
         
         <center>
-          <br /> <a href="http://gounconventional.com/book/"><img decoding="async" src="http://gohatke.kreativlabs.com/files/2014/12/cover1b2.png" alt="Read the book" width="240" /></a><br /> <br /> <a href="http://gounconventional.com/book/">Click the book icon above to start reading</a><br />
+          <br /> <a href="http://gounconventional.com/book/"><img decoding="async" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/12/cover1b2.png" alt="Read the book" width="240" /></a><br /> <br /> <a href="http://gounconventional.com/book/">Click the book icon above to start reading</a><br />
         </center></li> 
         
         <li>
@@ -143,6 +143,6 @@ Who knows? Maybe you are the next unconventional career story to be featured her
  [6]: http://gohatke.kreativlabs.com/tag/member_arunabh_kumar
  [7]: http://gohatke.kreativlabs.com/tag/member_debjeet_sen
  [8]: http://gohatke.kreativlabs.com/tag/member_aniket_aga
- [9]: http://gohatke.kreativlabs.com/files/2011/11/04capillary-tech1.jpg
+ [9]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/04capillary-tech1.jpg
  [10]: http://gohatke.kreativlabs.com/tag/member_chetan_bhagat/
  [11]: http://gohatke.kreativlabs.com/subscribe/ "Subscribe"

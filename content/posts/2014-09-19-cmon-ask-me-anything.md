@@ -6,12 +6,12 @@ date: 2014-09-20T02:45:40+00:00
 excerpt: 'Ask me anything about your unconventional career aspirations. I will answer as best as I can. But more importantly, asking the question can help you. Added BONUS: you stand to win a $25 gift card today.'
 draft: true
 url: /?p=1258
-featured_image: http://gohatke.kreativlabs.com/files/2014/09/2710464400_0fd7f7c94e_b.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/2710464400_0fd7f7c94e_b.jpg
 categories:
   - Announcements
 
 ---
-[<img loading="lazy" decoding="async" class="aligncenter wp-image-1259" src="http://gohatke.kreativlabs.com/files/2014/09/2710464400_0fd7f7c94e_b.jpg" alt="2710464400_0fd7f7c94e_b" width="600" height="395" srcset="https://gohatke.kreativlabs.com/files/2014/09/2710464400_0fd7f7c94e_b.jpg 1024w, https://gohatke.kreativlabs.com/files/2014/09/2710464400_0fd7f7c94e_b-300x197.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][1]
+[<img loading="lazy" decoding="async" class="aligncenter wp-image-1259" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/2710464400_0fd7f7c94e_b.jpg" alt="2710464400_0fd7f7c94e_b" width="600" height="395" srcset="https://gohatke.kreativlabs.com/files/2014/09/2710464400_0fd7f7c94e_b.jpg 1024w, https://gohatke.kreativlabs.com/files/2014/09/2710464400_0fd7f7c94e_b-300x197.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][1]
 
 ### Today, I ask you to take a small step &#8212; Ask me a question.
 
@@ -62,4 +62,4 @@ So go ahead, click the button below:
     [Photo credits: <a href="https://www.flickr.com/photos/kareneliot/2710464400/" target="_blank" rel="noopener noreferrer">kareneliot via flickr</a>]
   </p>
 
- [1]: http://gohatke.kreativlabs.com/files/2014/09/2710464400_0fd7f7c94e_b.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/2710464400_0fd7f7c94e_b.jpg

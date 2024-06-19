@@ -5,7 +5,7 @@ type: post
 date: 2013-09-17T22:41:06+00:00
 excerpt: "What do you do when you like to do something, but others seem to do the same thing much better than you? Roy Jackson loved to play the piano, but he was half as good as his classmates. What could he do in such a situation? Read on, to hear Roy's story..."
 url: /2013/09/17/the-farmboy-and-the-piano/
-featured_image: http://gohatke.kreativlabs.com/files/2013/09/6137393610_151912e71e_b.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/09/6137393610_151912e71e_b.jpg
 categories:
   - Belief-system
   - Fiction
@@ -72,5 +72,5 @@ The sun had come up now, shining brightly through the clouds and fog that had en
  
 Photo credit: <a href="http://www.flickr.com/photos/mwichary/5006494955/sizes/l/in/photostream/" target="_blank">Marcin Wichary</a> via <a href="http://www.flickr.com/" target="_blank">flickr</a>
 
- [1]: http://gohatke.kreativlabs.com/files/2013/09/6137393610_151912e71e_b.jpg
- [2]: http://gohatke.kreativlabs.com/files/2013/09/5006494955_d4ae550f8d_b.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/09/6137393610_151912e71e_b.jpg
+ [2]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/09/5006494955_d4ae550f8d_b.jpg

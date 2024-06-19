@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2011-11-21T22:49:42+00:00
 url: /2011/11/21/how-indias-education-system-stifles-creativity-and-originality/
-featured_image: http://gohatke.kreativlabs.com/files/2011/11/The-Education-System-in-America.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/The-Education-System-in-America.jpg
 categories:
   - Blogging
   - Featured
@@ -47,4 +47,4 @@ It was a well framed piece of constructive criticism. But the Bengali teacher th
     <a href="http://gohatke.kreativlabs.com/2011/11/11/tedx-talk-by-indias-top-blogger-arnab-ray/" title="TEDx Talk by India’s Top Blogger Arnab Ray">Watch the TEDx talk by Arnab Ray from which this story is taken.</a>
   </p>
 
- [1]: http://gohatke.kreativlabs.com/files/2011/11/The-Education-System-in-America.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/The-Education-System-in-America.jpg

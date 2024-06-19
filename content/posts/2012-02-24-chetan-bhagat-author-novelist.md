@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2012-02-24T22:08:28+00:00
 url: /2012/02/24/chetan-bhagat-author-novelist/
-featured_image: http://gohatke.kreativlabs.com/files/2012/02/chetan_bhagat_05-e1331427439675.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/chetan_bhagat_05-e1331427439675.jpg
 categories:
   - Writing
 tags:
@@ -24,5 +24,5 @@ thinkers. The book influenced the movie, &#8216;3 Idiots&#8217;, which also deli
 To know more about Chetan&#8217;s way of thinking, and how he managed to write a novel while being employed in the investment banking industry, click [here][2].  
 [Image credit: http://www.wittysparks.com/2009/11/08/2-states-by-chetan-bhagat/]
 
- [1]: http://gohatke.kreativlabs.com/files/2011/11/2-States-Chetan-Bhagat.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/2-States-Chetan-Bhagat.jpg
  [2]: http://gohatke.kreativlabs.com/tag/member_chetan_bhagat/

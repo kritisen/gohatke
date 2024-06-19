@@ -6,7 +6,7 @@ date: 2013-07-04T22:28:58+00:00
 excerpt: |
   'You should...' is probably the most common phrase in the Indian dictionary. "You should do well in your studies.", "You should get married now."..... but should we actually follow all advice given to us?
 url: /2013/07/04/you-should-the-most-common-phrase-in-the-indian-dictionary/
-featured_image: http://gohatke.kreativlabs.com/files/2013/07/2787215808_bd462de557_o.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/07/2787215808_bd462de557_o.jpg
 categories:
   - Belief-system
 tags:
@@ -89,7 +89,7 @@ And finally, will we allow &#8220;You should&#8230;&#8221; to be replaced by &#8
   </p>
 </div>
 
- [1]: http://gohatke.kreativlabs.com/files/2013/07/2787215808_bd462de557_o.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/07/2787215808_bd462de557_o.jpg
  [2]: http://www.flickr.com/photos/25808862@N06/2787215808/
  [3]: http://compfight.com
  [4]: http://creativecommons.org/licenses/by-nc-nd/2.0/

@@ -5,7 +5,7 @@ type: post
 date: 2013-02-26T23:02:06+00:00
 excerpt: Was Chetan Bhagat being shameless while writing Five Point Someone? Is Arnab Ray a shameless blogger, and should he be banned? What is shameless writing, and should that be allowed? Read on...
 url: /2013/02/26/master-of-bestseller-administration-3/
-featured_image: http://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/sexSceneFivePoint.jpg
 categories:
   - Featured
   - Master-of-Bestseller-Administration
@@ -78,9 +78,9 @@ Let us know about your &#8216;shameless&#8217; moments in the comments below, or
 
 **Next**: Tips from best-selling authors on [how to overcome shyness and getting your &#8216;shameless&#8217; out][8].
 
- [1]: http://gohatke.kreativlabs.com/files/2013/02/sexSceneFivePoint.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/sexSceneFivePoint.jpg
  [2]: http://greatbong.net/2012/10/19/the-passing-of-another-friend/
- [3]: http://gohatke.kreativlabs.com/files/2013/02/sylviaKristel21.jpg
+ [3]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/sylviaKristel21.jpg
  [4]: http://en.wikipedia.org/wiki/Lolita
  [5]: http://en.wikipedia.org/wiki/The_Satanic_Verses_controversy
  [6]: http://en.wikipedia.org/wiki/M._F._Husain

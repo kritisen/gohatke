@@ -7,7 +7,7 @@ excerpt: |
   |
   As children, we find it easy to learn something new. As we grow up, we find it difficult to overcome our fears to learn that new thing we want to learn. But there is a secret trick to overcome the initial barrier.
 url: /2013/12/24/overcome-fear-and-learn-something-new/
-featured_image: http://gohatke.kreativlabs.com/files/2013/12/learn-everyday.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/learn-everyday.jpg
 categories:
   - Actionable
   - Belief-system
@@ -131,5 +131,5 @@ _Poonam Mulherkar is a biomedical engineer by training and a first time writer. 
       [Featured image credits: <a href="http://www.flickr.com/photos/venosdale/8366215924/sizes/z/" target="_blank">Krissy.Venosdale</a>]
     </p>
 
- [1]: http://gohatke.kreativlabs.com/files/2013/12/babysteps1.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/12/babysteps1.jpg
  [2]: http://www.apkpublishers.com/product/62-back-to-pavillion.html

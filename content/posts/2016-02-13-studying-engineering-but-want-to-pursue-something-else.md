@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2016-02-14T04:45:28+00:00
 url: /2016/02/13/studying-engineering-but-want-to-pursue-something-else/
-featured_image: http://gohatke.kreativlabs.com/files/2016/02/Civil_Engineering_Students.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2016/02/Civil_Engineering_Students.jpg
 categories:
   - Uncategorized
 
@@ -50,7 +50,7 @@ Even with all I said so far, I acknowledge that you might still feel totally ave
 
 That&#8217;s all for now. Hope this helps!
 
-<img loading="lazy" decoding="async" src="http://gohatke.kreativlabs.com/files/2016/02/Civil_Engineering_Students.jpg" alt="Civil_Engineering_Students" width="627" height="348" class="aligncenter size-full wp-image-1627" srcset="https://gohatke.kreativlabs.com/files/2016/02/Civil_Engineering_Students.jpg 627w, https://gohatke.kreativlabs.com/files/2016/02/Civil_Engineering_Students-300x167.jpg 300w, https://gohatke.kreativlabs.com/files/2016/02/Civil_Engineering_Students-360x200.jpg 360w" sizes="(max-width: 627px) 100vw, 627px" />
+<img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2016/02/Civil_Engineering_Students.jpg" alt="Civil_Engineering_Students" width="627" height="348" class="aligncenter size-full wp-image-1627" srcset="https://gohatke.kreativlabs.com/files/2016/02/Civil_Engineering_Students.jpg 627w, https://gohatke.kreativlabs.com/files/2016/02/Civil_Engineering_Students-300x167.jpg 300w, https://gohatke.kreativlabs.com/files/2016/02/Civil_Engineering_Students-360x200.jpg 360w" sizes="(max-width: 627px) 100vw, 627px" />
 
  [1]: http://gounconventional.com/forum/?
  [2]: http://gounconventional.com/2011/11/21/how-indias-education-system-stifles-creativity-and-originality/

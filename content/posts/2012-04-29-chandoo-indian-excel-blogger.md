@@ -7,7 +7,7 @@ excerpt: |
   |
     GoHatke got a chance to speak with Chandoo, the creator of Chandoo.org ---  possibly the best resource for EXCEL in the world. We learned about the staggering revenue of his website. But most of all we were humbled by his modesty and down to earth nature. We had 2 burning questions for him, about how he managed a job and his website simultaneously, and about his childhood experiences. Read on and listen to the audio excerpts.
 url: /2012/04/29/chandoo-indian-excel-blogger/
-featured_image: http://gohatke.kreativlabs.com/files/2012/04/chandoo_panel1.png
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/chandoo_panel1.png
 categories:
   - Blogging
   - Comic
@@ -54,7 +54,7 @@ For those of you who have headed over here from Chandoo&#8217;s EXCEL blog, Chan
 
 > Chandoo is the founder and owner of Chandoo.org
 
-[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-561" title="chandoo-blog-logo" src="http://gohatke.kreativlabs.com/files/2012/03/chandoo-blog-logo.png" alt="" width="229" height="62" />][1]
+[<img loading="lazy" decoding="async" class="alignnone size-full wp-image-561" title="chandoo-blog-logo" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/03/chandoo-blog-logo.png" alt="" width="229" height="62" />][1]
 
 Here&#8217;s an intro about **Purnachandra Rao Duggirala a.k.a. Chandoo** from his [Pagalguy interview in 2010][2]:  
 ![chandoo-pointy](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/chandoo-pointy-haired-dilbert-small-about-photo.jpg)
@@ -121,8 +121,8 @@ Can&#8217;t see the Audio player? [Listen to Chandoo&#8217;s answer here][7].
 
  [1]: http://chandoo.org
  [2]: http://www.pagalguy.com/2010/11/the-mba-who-quit-his-job-to-earn-100000-doing-excel-blogging/ "pagalguy interview"
- [3]: http://gohatke.kreativlabs.com/files/2012/04/chandoo-pointy-haired-dilbert-small-about-photo.jpg
- [4]: http://gohatke.kreativlabs.com/files/2012/03/50283_109674419146236_439253393_n.jpg
- [5]: http://gohatke.kreativlabs.com/files/2012/03/chandoo.png
+ [3]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/chandoo-pointy-haired-dilbert-small-about-photo.jpg
+ [4]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/03/50283_109674419146236_439253393_n.jpg
+ [5]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/03/chandoo.png
  [6]: http://soundcloud.com/kritisen/interview-with-chandoo-q1
  [7]: http://soundcloud.com/kritisen/interview-with-chandoo-q2

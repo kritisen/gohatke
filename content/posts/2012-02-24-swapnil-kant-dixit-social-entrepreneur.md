@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2012-02-24T21:02:16+00:00
 url: /2012/02/24/swapnil-kant-dixit-social-entrepreneur/
-featured_image: http://gohatke.kreativlabs.com/files/2012/02/JY11-10-Ayaz-1-of-13-e1331427635133.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/JY11-10-Ayaz-1-of-13-e1331427635133.jpg
 categories:
   - Entrepreneurship
   - Social Entrepreneurship
@@ -24,4 +24,4 @@ The enthusiasm of Swapnil is contagious, and one needs to hear him speak to unde
 ![10-Ayaz](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/JY11-10-Ayaz-1-of-131.jpg)
 
  [1]: http://gohatke.kreativlabs.com/tag/member_swapnil_dixit/
- [2]: http://gohatke.kreativlabs.com/files/2012/02/JY11-10-Ayaz-1-of-131.jpg
+ [2]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/JY11-10-Ayaz-1-of-131.jpg

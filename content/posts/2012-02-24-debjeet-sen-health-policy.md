@@ -5,7 +5,7 @@ type: post
 date: 2012-02-24T19:39:26+00:00
 excerpt: "Read about Debjeet Sen's journey from Biotech Engineering to Master of Public Health. And how he is instrumental in creating global health policy which can save many lives in  Africa."
 url: /2012/02/24/debjeet-sen-health-policy/
-featured_image: http://gohatke.kreativlabs.com/files/2012/02/whiteribbonalliancelogo.png
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/whiteribbonalliancelogo.png
 categories:
   - Health Policy
 tags:
@@ -26,4 +26,4 @@ Between these 2 groups of people (Biotech turned Infotech, and US-based research
 
 ![whiteribbonalliancelogo](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/whiteribbonalliancelogo.png)
 
- [1]: http://gohatke.kreativlabs.com/files/2012/02/whiteribbonalliancelogo.png
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/whiteribbonalliancelogo.png

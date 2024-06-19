@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2012-11-18T04:14:55+00:00
 url: /2012/11/18/vineet-pancchi-living-up-to-his-sur-name/
-featured_image: http://gohatke.kreativlabs.com/files/2012/11/1330212.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/11/1330212.jpg
 categories:
   - Media Enterpreneurship
   - Music
@@ -65,7 +65,7 @@ Vineet is now associated with multiple other companies &#8212;
     
     > If you liked this article and would like to read more articles like this, &#8220;Like&#8221; GoHatke on Facebook: <a href="https://facebook.com/gohatke" rel="nofollow" target="_blank">https://facebook.com/<wbr>gohatke</wbr></a>
 
- [1]: http://gohatke.kreativlabs.com/files/2012/11/1330212.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/11/1330212.jpg
  [2]: http://www.youtube.com/watch?v=SGAANab7gyI
  [3]: www.linkedin.com/in/panchhi
  [4]: http://jingles.co.in

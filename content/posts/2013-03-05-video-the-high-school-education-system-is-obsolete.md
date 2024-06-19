@@ -6,7 +6,7 @@ date: 2013-03-05T08:04:10+00:00
 excerpt: |
   [Recommended video] Dr Sugata Mitra received the TED prize in 2013, and gave a fantastic talk on his vision of "A school in the cloud". He notes that the high-school education system is obsolete and does not sufficiently serve today's needs... And he shows a roadmap for the future which empowers students as well as teachers.
 url: /2013/03/05/video-the-high-school-education-system-is-obsolete/
-featured_image: http://gohatke.kreativlabs.com/files/2013/03/sugata-mitra-playlist.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/sugata-mitra-playlist.jpg
 categories:
   - Education
   - Videos

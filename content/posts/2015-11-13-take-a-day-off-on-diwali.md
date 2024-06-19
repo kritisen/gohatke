@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2015-11-13T14:35:17+00:00
 url: /2015/11/13/take-a-day-off-on-diwali/
-featured_image: http://gohatke.kreativlabs.com/files/2015/11/IMG_0368.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/IMG_0368.jpg
 categories:
   - Belief-system
 

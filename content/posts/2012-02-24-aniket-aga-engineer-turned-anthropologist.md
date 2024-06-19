@@ -4,7 +4,7 @@ author: Kriti Sen Sharma
 type: post
 date: 2012-02-24T21:49:59+00:00
 url: /2012/02/24/aniket-aga-engineer-turned-anthropologist/
-featured_image: http://gohatke.kreativlabs.com/files/2012/02/transition.png
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/transition.png
 categories:
   - Research
 tags:
@@ -24,4 +24,4 @@ Aniket is truly a scholar &#8211; and that too in diverse subjects such as Elect
 
 ![Aniket](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/aniket_aga.jpg)
 
- [1]: http://gohatke.kreativlabs.com/files/2012/02/transition1.png
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/transition1.png

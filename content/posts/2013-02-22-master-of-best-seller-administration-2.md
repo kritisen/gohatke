@@ -9,7 +9,7 @@ excerpt: |
     
     So I thought I would try to to find exactly that out. So I tried to connect with the writers featured in my article through email, Twitter, or any (legal) means possible.
 url: /2013/02/22/master-of-best-seller-administration-2/
-featured_image: http://gohatke.kreativlabs.com/files/2013/02/001_questioningKid.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/001_questioningKid.jpg
 categories:
   - Featured
   - Master-of-Bestseller-Administration
@@ -93,11 +93,11 @@ The Masters agree &#8212; hard-work, discipline, and practice (i.e. all the bori
 
  [1]: http://gohatke.kreativlabs.com/2013/02/02/master-of-best-seller-administration-1/
  [2]: http://gohatke.kreativlabs.com/2013/02/02/master-of-best-seller-administration-1/ "Master of Best-seller Administration. Why so many best-selling Indian novelists are graduates from famous universities."
- [3]: http://gohatke.kreativlabs.com/files/2013/02/001_questioningKid.jpg
+ [3]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/001_questioningKid.jpg
  [4]: http://greatbong.net/
  [5]: http://thewritepractice.com/
  [6]: http://money.cnn.com/magazines/fortune/fortune_archive/2006/10/30/8391794/index.htm
- [7]: http://gohatke.kreativlabs.com/files/2013/02/8140770540_b986f6cb54.jpg
+ [7]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/8140770540_b986f6cb54.jpg
  [8]: http://www.flickr.com/photos/67956652@N02/8140770540/
  [9]: http://compfight.com
  [10]: http://creativecommons.org/licenses/by-nc-nd/2.0/

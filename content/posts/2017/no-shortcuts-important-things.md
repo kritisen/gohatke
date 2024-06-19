@@ -5,7 +5,7 @@ type: post
 date: 2017-11-16
 excerpt: 'In which I describe two powerful ideas -- (1) there are no shortcuts to happiness in careers and relationships, (2) the importance of doing the important things in life.'
 url: /2017/11/16/no-shortcuts-important-things/
-featured_image: http://gohatke.kreativlabs.com/files/2017/11/frog-927768_1920.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2017/11/frog-927768_1920.jpg
 categories:
   - podcast
 slulg: no-shortcuts-important-things

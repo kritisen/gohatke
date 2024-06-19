@@ -5,7 +5,7 @@ type: post
 date: 2013-05-27T10:24:26+00:00
 excerpt: Our education system teaches us to be modest. That is all well and good when you are the topper in your class, or you are following a conventional career path. But if you ever want to do something out of the box, you have to learn to become shameless. Read on to know the importance of being shameless, and learn five steps to get your shameless on...
 url: /2013/05/27/five-steps-to-shameless-ness-and-how-it-can-change-your-life/
-featured_image: http://gohatke.kreativlabs.com/files/2013/05/292304907_c4ebbb6020_b.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/05/292304907_c4ebbb6020_b.jpg
 sgt_slide:
   - on
 categories:
@@ -103,7 +103,7 @@ For progressing in such unknown territory, shameless-ness is an important ally. 
     
     **Next**: A few stretching exercises to let go of your inhibitions&#8230;
 
- [1]: http://gohatke.kreativlabs.com/files/2013/05/292304907_c4ebbb6020_b.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/05/292304907_c4ebbb6020_b.jpg
  [2]: http://www.flickr.com/photos/15923063@N00/292304907/
  [3]: http://compfight.com
  [4]: http://creativecommons.org/licenses/by/2.0/

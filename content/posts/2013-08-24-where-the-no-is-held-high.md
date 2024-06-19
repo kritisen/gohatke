@@ -5,7 +5,7 @@ type: post
 date: 2013-08-24T11:58:07+00:00
 excerpt: Have you ever found yourself saying "yes" half-heartedly? You wanted to say "no", but custom made you reply differently. But does the half-hearted "yes" actually help anyone? Read on to find out...
 url: /2013/08/24/where-the-no-is-held-high/
-featured_image: http://gohatke.kreativlabs.com/files/2013/08/5338349795_24b57f8529_o1.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/08/5338349795_24b57f8529_o1.jpg
 categories:
   - Belief-system
 
@@ -81,11 +81,11 @@ Finally, as to the matter of how we say &#8220;no&#8221; at Indian dinner events
   If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">signing up for our mailing list</a>. And do leave your thoughts (agreements/disagreements) in the comments sections below&#8230;</p>
 </div>
 
- [1]: http://gohatke.kreativlabs.com/files/2013/08/5338349795_24b57f8529_o.jpg
+ [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/08/5338349795_24b57f8529_o.jpg
  [2]: http://www.flickr.com/photos/43335486@N00/5338349795/
  [3]: http://compfight.com
  [4]: http://www.flickr.com/help/general/#147
  [5]: http://www.linkedin.com/in/ppdas
- [6]: http://gohatke.kreativlabs.com/files/2013/08/saying-no.jpg
+ [6]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/08/saying-no.jpg
  [7]: http://pinterest.com/pin/573997914978161998/
  [8]: http://gohatke.kreativlabs.com/2013/07/04/you-should-the-most-common-phrase-in-the-indian-dictionary/ "“You should…” — the most common phrase in the Indian dictionary"

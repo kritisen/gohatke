@@ -92,7 +92,7 @@ Did any of you face similar challenges during/after your PhD? If so,
 Share your thoughts in the comments section below so that others can get benefited.
 
 <div class="post-content-box-blue">
-  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">signing up for our mailing list</a>.
+  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://kritisen.github.io/gohatke/subscribe/ ‎">signing up for our mailing list</a>.
 </div>
 
 Related: [Video: The high-school education system is obsolete.][3] 
@@ -101,7 +101,7 @@ Photo credit (Angry scientist photo: Photo Credit: [coschda][4] via [Compfight][
 
  [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/4359939963_f082b4ae9c_b.jpg
  [2]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/03/s138_imagination_is_more_important_than_knowledge_albert_einstein_sticker.png
- [3]: http://gohatke.kreativlabs.com/2013/03/05/video-the-high-school-education-system-is-obsolete/ "Video: The high-school education system is obsolete."
+ [3]: http://kritisen.github.io/gohatke/2013/03/05/video-the-high-school-education-system-is-obsolete/ "Video: The high-school education system is obsolete."
  [4]: http://www.flickr.com/photos/22062888@N06/4359939963/
  [5]: http://compfight.com
  [6]: http://creativecommons.org/licenses/by-nc/2.0/

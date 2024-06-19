@@ -91,8 +91,8 @@ The Masters agree &#8212; hard-work, discipline, and practice (i.e. all the bori
 
 ![Study](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/8140770540_b986f6cb54.jpg)
 
- [1]: http://gohatke.kreativlabs.com/2013/02/02/master-of-best-seller-administration-1/
- [2]: http://gohatke.kreativlabs.com/2013/02/02/master-of-best-seller-administration-1/ "Master of Best-seller Administration. Why so many best-selling Indian novelists are graduates from famous universities."
+ [1]: http://kritisen.github.io/gohatke/2013/02/02/master-of-best-seller-administration-1/
+ [2]: http://kritisen.github.io/gohatke/2013/02/02/master-of-best-seller-administration-1/ "Master of Best-seller Administration. Why so many best-selling Indian novelists are graduates from famous universities."
  [3]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/02/001_questioningKid.jpg
  [4]: http://greatbong.net/
  [5]: http://thewritepractice.com/

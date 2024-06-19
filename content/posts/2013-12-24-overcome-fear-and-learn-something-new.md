@@ -125,7 +125,7 @@ _Poonam Mulherkar is a biomedical engineer by training and a first time writer. 
   The entire book is a wonderful read. To buy the book, <a href="http://www.apkpublishers.com/product/62-back-to-pavillion.html" target="_blank">click here</a>.</p> 
   
   <p>
-    If you liked this article and would like to be notified about future articles, LIKE GoHatke on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">sign up for the GoHatke mailing list</a> (no spam, promise). And do leave your thoughts (agreements/disagreements) in the comments sections below&#8230;</div> 
+    If you liked this article and would like to be notified about future articles, LIKE GoHatke on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://kritisen.github.io/gohatke/subscribe/ ‎">sign up for the GoHatke mailing list</a> (no spam, promise). And do leave your thoughts (agreements/disagreements) in the comments sections below&#8230;</div> 
     
     <p>
       [Featured image credits: <a href="http://www.flickr.com/photos/venosdale/8366215924/sizes/z/" target="_blank">Krissy.Venosdale</a>]

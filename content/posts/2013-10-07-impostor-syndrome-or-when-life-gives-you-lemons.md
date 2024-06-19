@@ -103,11 +103,11 @@ _**[All names and details are changed in the above transcript as well as [in the
 
 <div class="post-content-box-blue">
   <p>
-    If you liked what you read and would like to be notified about future posts at this site, <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">sign up for our mailing list</a>, or LIKE us on <a href="http://facebook.com/gohatke">Facebook</a>.
+    If you liked what you read and would like to be notified about future posts at this site, <a href="http://kritisen.github.io/gohatke/subscribe/ ‎">sign up for our mailing list</a>, or LIKE us on <a href="http://facebook.com/gohatke">Facebook</a>.
   </p>
 </div>
 
  [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/world_questions_you1.jpg
- [2]: http://gohatke.kreativlabs.com/2013/09/17/the-farmboy-and-the-piano/ "The Farmboy and The Piano"
+ [2]: http://kritisen.github.io/gohatke/2013/09/17/the-farmboy-and-the-piano/ "The Farmboy and The Piano"
  [3]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/Slide1.jpg
  [4]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/10/you_question_world1.jpg

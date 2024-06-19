@@ -23,4 +23,4 @@ See [Arnab&#8217;s TED talk and all other references in this site][3].
 
  [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/10/Arnab-Ray.jpg
  [2]: http://greatbong.net
- [3]: http://gohatke.kreativlabs.com/tag/member_arnab_ray/
+ [3]: http://kritisen.github.io/gohatke/tag/member_arnab_ray/

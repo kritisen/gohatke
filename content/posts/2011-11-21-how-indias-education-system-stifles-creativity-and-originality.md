@@ -44,7 +44,7 @@ It was a well framed piece of constructive criticism. But the Bengali teacher th
 
 <p style="text-align: left;">
   <p>
-    <a href="http://gohatke.kreativlabs.com/2011/11/11/tedx-talk-by-indias-top-blogger-arnab-ray/" title="TEDx Talk by India’s Top Blogger Arnab Ray">Watch the TEDx talk by Arnab Ray from which this story is taken.</a>
+    <a href="http://kritisen.github.io/gohatke/2011/11/11/tedx-talk-by-indias-top-blogger-arnab-ray/" title="TEDx Talk by India’s Top Blogger Arnab Ray">Watch the TEDx talk by Arnab Ray from which this story is taken.</a>
   </p>
 
  [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/The-Education-System-in-America.jpg

@@ -79,7 +79,7 @@ For progressing in such unknown territory, shameless-ness is an important ally. 
     > 
     > You’re a nice girl. What will people think of you?
     
-    Fortunately, she realized that it was just her inner critic speaking, and that <a href="http://www.thecreativepenn.com/2013/05/09/permission/" target="_blank">she did have permission</a> to write her mind. This is an important realization in any creative process (as I have pointed out in my post on <a href="http://gohatke.kreativlabs.com/2013/02/26/master-of-bestseller-administration-3/" target="_blank">shameless Indian writers</a>).
+    Fortunately, she realized that it was just her inner critic speaking, and that <a href="http://www.thecreativepenn.com/2013/05/09/permission/" target="_blank">she did have permission</a> to write her mind. This is an important realization in any creative process (as I have pointed out in my post on <a href="http://kritisen.github.io/gohatke/2013/02/26/master-of-bestseller-administration-3/" target="_blank">shameless Indian writers</a>).
     
     I have a personal experience in this regard. I have a knack of coming up with silly puns from time to time. These are not jokes _per se_, but people tend to agree that they are so annoying that they are funny. Initially, I was reluctant to post them on any social networking site. But ever since I started posting these puns on <a href="https://www.facebook.com/kritisen" target="_blank">my Facebook wall</a>, I was amazed by the number of people who &#8216;Like&#8217;-d them. I was inspired to come up with better (or for that matter, worse) puns.
     
@@ -98,7 +98,7 @@ For progressing in such unknown territory, shameless-ness is an important ally. 
     Do you agree that overcoming modesty is that important? What steps did you follow? Do leave your comments below, or just leave a comment on our wall at <http://facebook.com/gohatke> or [@gohatke][8] on Twitter (use the tag **#shameless**)
     
     <div class="post-content-box-blue">
-      If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">signing up for our mailing list</a>.
+      If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://kritisen.github.io/gohatke/subscribe/ ‎">signing up for our mailing list</a>.
     </div>
     
     **Next**: A few stretching exercises to let go of your inhibitions&#8230;
@@ -107,7 +107,7 @@ For progressing in such unknown territory, shameless-ness is an important ally. 
  [2]: http://www.flickr.com/photos/15923063@N00/292304907/
  [3]: http://compfight.com
  [4]: http://creativecommons.org/licenses/by/2.0/
- [5]: http://gohatke.kreativlabs.com/2013/02/26/master-of-bestseller-administration-3/ "Shameless Indian Writers – The importance of shameless writing"
- [6]: http://gohatke.kreativlabs.com/2012/04/29/chandoo-indian-excel-blogger/
- [7]: http://gohatke.kreativlabs.com/2013/02/22/master-of-best-seller-administration-2/
+ [5]: http://kritisen.github.io/gohatke/2013/02/26/master-of-bestseller-administration-3/ "Shameless Indian Writers – The importance of shameless writing"
+ [6]: http://kritisen.github.io/gohatke/2012/04/29/chandoo-indian-excel-blogger/
+ [7]: http://kritisen.github.io/gohatke/2013/02/22/master-of-best-seller-administration-2/
  [8]: https://twitter.com/gohatke

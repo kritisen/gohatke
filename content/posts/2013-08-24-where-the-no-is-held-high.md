@@ -78,7 +78,7 @@ And it may be just such a change in mindset that is required to herald a new era
 Finally, as to the matter of how we say &#8220;no&#8221; at Indian dinner events, well, that should probably remain unchanged. It is a way too hilarious and entertaining a tradition to let go off.
 
 <div class="post-content-box-blue">
-  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">signing up for our mailing list</a>. And do leave your thoughts (agreements/disagreements) in the comments sections below&#8230;</p>
+  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://kritisen.github.io/gohatke/subscribe/ ‎">signing up for our mailing list</a>. And do leave your thoughts (agreements/disagreements) in the comments sections below&#8230;</p>
 </div>
 
  [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/08/5338349795_24b57f8529_o.jpg
@@ -88,4 +88,4 @@ Finally, as to the matter of how we say &#8220;no&#8221; at Indian dinner events
  [5]: http://www.linkedin.com/in/ppdas
  [6]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/08/saying-no.jpg
  [7]: http://pinterest.com/pin/573997914978161998/
- [8]: http://gohatke.kreativlabs.com/2013/07/04/you-should-the-most-common-phrase-in-the-indian-dictionary/ "“You should…” — the most common phrase in the Indian dictionary"
+ [8]: http://kritisen.github.io/gohatke/2013/07/04/you-should-the-most-common-phrase-in-the-indian-dictionary/ "“You should…” — the most common phrase in the Indian dictionary"

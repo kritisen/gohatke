@@ -8,7 +8,7 @@ excerpt: |
   
   If you like this presentation, help promote GoHatke by "liking" us on Facebook: <a href="https://facebook.com/gohatke" rel="nofollow" target="_blank">https://facebook.com/<wbr>gohatke</wbr></a>
 url: /2012/04/05/devendra-purbiya-from-iit-to-photography-and-back/
-featured_image: http://gohatke.kreativlabs.com/files/2012/04/illuminati_cover.jpg
+featured_image: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/04/illuminati_cover.jpg
 categories:
   - Featured
   - Photography

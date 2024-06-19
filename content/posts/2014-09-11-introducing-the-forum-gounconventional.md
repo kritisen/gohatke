@@ -11,7 +11,7 @@ categories:
 
 ---
 The road to pursuing an unconventional career can be a lonely one.  
-[<img loading="lazy" decoding="async" class="aligncenter wp-image-1244 size-full" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/walk-alone.png" alt="walk-alone" width="250" height="250" srcset="https://gohatke.kreativlabs.com/files/2014/09/walk-alone.png 250w, https://gohatke.kreativlabs.com/files/2014/09/walk-alone-100x100.png 100w" sizes="(max-width: 250px) 100vw, 250px" />][1]
+[<img loading="lazy" decoding="async" class="aligncenter wp-image-1244 size-full" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/walk-alone.png" alt="walk-alone" width="250" height="250" srcset="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/walk-alone.png 250w, https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/09/walk-alone-100x100.png 100w" sizes="(max-width: 250px) 100vw, 250px" />][1]
 
 Well, not any more!
 

@@ -13,7 +13,7 @@ categories:
 
 ![Chasing the highest return on education](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k.jpg)
 
-[<img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k-1024x768.jpg" alt="11696740225_156ed51a29_k" width="1024" height="768" class="aligncenter size-large wp-image-1616" srcset="https://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k-1024x768.jpg 1024w, https://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k-300x225.jpg 300w, https://gohatke.kreativlabs.com/files/2015/11/11696740225_156ed51a29_k.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+[<img loading="lazy" decoding="async" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k-1024x768.jpg" alt="11696740225_156ed51a29_k" width="1024" height="768" class="aligncenter size-large wp-image-1616" srcset="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k-1024x768.jpg 1024w, https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k-300x225.jpg 300w, https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2015/11/11696740225_156ed51a29_k.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
 
 Today I chanced upon [an article][2] about a survey of international students in US universities. 
 

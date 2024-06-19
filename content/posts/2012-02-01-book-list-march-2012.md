@@ -40,4 +40,4 @@ Entrepreneurship is not about breaking free from the 9 to 5 humdrum, not about b
 NOTE: This was the book that [inspired Bhomesh Sharma][2] to make great strides in the field of multilevel marketing.
 
  [1]: http://www.dialabook.in/books/the-game-changers:-20-extraordinary-success-stories-of-entrepreneurs-from-iit-kharagpur_1_12113.html
- [2]: http://gohatke.kreativlabs.com/2011/07/23/6-lacs-debt-to-debt-free-in-6/ "Going from 6 lacs in Debt to Debt-free in 6 years (to Financially Free)"
+ [2]: http://kritisen.github.io/gohatke/2011/07/23/6-lacs-debt-to-debt-free-in-6/ "Going from 6 lacs in Debt to Debt-free in 6 years (to Financially Free)"

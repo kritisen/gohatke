@@ -26,10 +26,10 @@ Arunabh&#8217;s transition from engineering to film-making is explained in his t
 
 More about Arunabh:
 
-  * <a href="http://gohatke.kreativlabs.com/2011/08/15/3-by-3-principle/" title="The 3-by-3 Principle of Maximizing Your Career Potential" target="_blank">Arunabh&#8217;s TED Talk</a>
+  * <a href="http://kritisen.github.io/gohatke/2011/08/15/3-by-3-principle/" title="The 3-by-3 Principle of Maximizing Your Career Potential" target="_blank">Arunabh&#8217;s TED Talk</a>
   * <a href="http://theviralfever.com/" title="Arunabh's latest venture" target="_blank">Arunabh&#8217;s latest venture &#8212; India&#8217;s first online TV for youth</a>
   * Arunabh&#8217;s <a href="http://www.youtube.com/watch?v=8sgYXNwNLXg&#038;context=C35ff0c0ADOEgsToPDskKzIipOpoDkXAOdN3PrvbN-" target="_blank">viral video</a> that got 1 million hits on YouTube
   * [All mentions of Arunabh on this site.][2]
 
- [1]: http://gohatke.kreativlabs.com/2011/08/15/3-by-3-principle/ "The 3-by-3 Principle of Maximizing Your Career Potential"
- [2]: http://gohatke.kreativlabs.com/tag/member_arunabh_kumar
+ [1]: http://kritisen.github.io/gohatke/2011/08/15/3-by-3-principle/ "The 3-by-3 Principle of Maximizing Your Career Potential"
+ [2]: http://kritisen.github.io/gohatke/tag/member_arunabh_kumar

@@ -82,7 +82,7 @@ It boils down to one question &#8212; what will my generation do? As we transiti
 And finally, will we allow &#8220;You should&#8230;&#8221; to be replaced by &#8220;I feel like&#8230;&#8221;?
 
 <div class="post-content-box-blue">
-  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">signing up for our mailing list</a>. </p> 
+  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://kritisen.github.io/gohatke/subscribe/ ‎">signing up for our mailing list</a>. </p> 
   
   <p>
     And do leave your thoughts (agreements/disagreements) in the comments sections below&#8230;
@@ -93,4 +93,4 @@ And finally, will we allow &#8220;You should&#8230;&#8221; to be replaced by &#8
  [2]: http://www.flickr.com/photos/25808862@N06/2787215808/
  [3]: http://compfight.com
  [4]: http://creativecommons.org/licenses/by-nc-nd/2.0/
- [5]: http://gohatke.kreativlabs.com/2013/03/05/video-the-high-school-education-system-is-obsolete/ "Video: The high-school education system is obsolete."
+ [5]: http://kritisen.github.io/gohatke/2013/03/05/video-the-high-school-education-system-is-obsolete/ "Video: The high-school education system is obsolete."

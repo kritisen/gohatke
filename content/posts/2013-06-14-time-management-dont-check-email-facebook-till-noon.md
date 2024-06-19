@@ -212,7 +212,7 @@ Instead, what I will tell you is this:
                 </p>
                 
                 <div class="post-content-box-blue">
-                  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">signing up for our mailing list</a>. </p> 
+                  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://kritisen.github.io/gohatke/subscribe/ ‎">signing up for our mailing list</a>. </p> 
                   
                   <p>
                     And do leave your thoughts (agreements/disagreements) in the comments sections below&#8230;

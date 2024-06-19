@@ -73,7 +73,7 @@ Did you ever have your own &#8216;shameless&#8217; moment?
 Let us know about your &#8216;shameless&#8217; moments in the comments below, or just leave a comment on our wall at <http://facebook.com/gohatke> or [@gohatke][7] on Twitter (use the tag **#shameless**)
 
 <div class="post-content-box-blue">
-  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">signing up for our mailing list</a>.
+  If you liked this article and would like to be notified about future articles, consider LIKE-ing us on <a href="http://facebook.com/gohatke">Facebook</a>, or <a href="http://kritisen.github.io/gohatke/subscribe/ ‎">signing up for our mailing list</a>.
 </div>
 
 **Next**: Tips from best-selling authors on [how to overcome shyness and getting your &#8216;shameless&#8217; out][8].
@@ -85,4 +85,4 @@ Let us know about your &#8216;shameless&#8217; moments in the comments below, or
  [5]: http://en.wikipedia.org/wiki/The_Satanic_Verses_controversy
  [6]: http://en.wikipedia.org/wiki/M._F._Husain
  [7]: https://twitter.com/gohatke
- [8]: http://gohatke.kreativlabs.com/?p=788
+ [8]: http://kritisen.github.io/gohatke/?p=788

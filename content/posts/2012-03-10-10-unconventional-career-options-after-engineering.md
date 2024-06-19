@@ -107,7 +107,7 @@ Who knows? Maybe you are the next unconventional career story to be featured her
       </div>
       
       <p>
-        If so, read my free e-book on <a href="http://gohatke.kreativlabs.com/book/" title="Extra-Marital Careers: Five Steps to Start the Moonlighting Career You So Desire">how to start an unconventional career along with your regular job</a>.<br /> 
+        If so, read my free e-book on <a href="http://kritisen.github.io/gohatke/book/" title="Extra-Marital Careers: Five Steps to Start the Moonlighting Career You So Desire">how to start an unconventional career along with your regular job</a>.<br /> 
         
         <center>
           <br /> <a href="http://gounconventional.com/book/"><img decoding="async" src="https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2014/12/cover1b2.png" alt="Read the book" width="240" /></a><br /> <br /> <a href="http://gounconventional.com/book/">Click the book icon above to start reading</a><br />
@@ -124,7 +124,7 @@ Who knows? Maybe you are the next unconventional career story to be featured her
             If so, I would suggest you read some of these <a href="http://www.amazon.com/s/ref=nb_sb_ss_c_0_11?url=search-alias%3Dstripbooks&#038;field-keywords=career+change&#038;sprefix=career+chan%2Caps%2C333" target="_blank">very good books on career change</a> &#8230; my book on this topic is still being written 🙂 </li> </div> 
             
             <div class="post-content-box-blue">
-              <a href="http://gohatke.kreativlabs.com/subscribe/">Sign up for our newsletter</a>.</p> 
+              <a href="http://kritisen.github.io/gohatke/subscribe/">Sign up for our newsletter</a>.</p> 
               
               <p>
                 LIKE us on <a href="http://facebook.com/gohatke">Facebook</a>.
@@ -136,13 +136,13 @@ Who knows? Maybe you are the next unconventional career story to be featured her
             </div>
 
  [1]: http://cutekakashi.deviantart.com/art/tf2-engineer-140750118
- [2]: http://gohatke.kreativlabs.com/tag/member_arnab_ray/
- [3]: http://gohatke.kreativlabs.com/tag/member_devendra_purbiya/
- [4]: http://gohatke.kreativlabs.com/tag/member_swapnil_dixit/
+ [2]: http://kritisen.github.io/gohatke/tag/member_arnab_ray/
+ [3]: http://kritisen.github.io/gohatke/tag/member_devendra_purbiya/
+ [4]: http://kritisen.github.io/gohatke/tag/member_swapnil_dixit/
  [5]: http://gounconventional.com/profiles/anshul-gupta-from-engineering-to-indian-police-service/
- [6]: http://gohatke.kreativlabs.com/tag/member_arunabh_kumar
- [7]: http://gohatke.kreativlabs.com/tag/member_debjeet_sen
- [8]: http://gohatke.kreativlabs.com/tag/member_aniket_aga
+ [6]: http://kritisen.github.io/gohatke/tag/member_arunabh_kumar
+ [7]: http://kritisen.github.io/gohatke/tag/member_debjeet_sen
+ [8]: http://kritisen.github.io/gohatke/tag/member_aniket_aga
  [9]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/04capillary-tech1.jpg
- [10]: http://gohatke.kreativlabs.com/tag/member_chetan_bhagat/
- [11]: http://gohatke.kreativlabs.com/subscribe/ "Subscribe"
+ [10]: http://kritisen.github.io/gohatke/tag/member_chetan_bhagat/
+ [11]: http://kritisen.github.io/gohatke/subscribe/ "Subscribe"

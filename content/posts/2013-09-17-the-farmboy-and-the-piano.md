@@ -65,7 +65,7 @@ And that day, for the very first time in my six months in Chicago, I played with
 The sun had come up now, shining brightly through the clouds and fog that had enveloped Chicago for the last few days. Though winter was far from over, the sunlight was a sign that the cold would ultimately end. I thought to myself, Joe and Rubin and Gary would have to finish their lunch without me. I had something much more important to do.
 
 <div class="post-content-box-blue">
-  If you liked what you read and would like to be notified about future posts at this site, <a href="http://gohatke.kreativlabs.com/subscribe/ ‎">sign up for our mailing list</a>, or LIKE us on <a href="http://facebook.com/gohatke">Facebook</a>. </p>
+  If you liked what you read and would like to be notified about future posts at this site, <a href="http://kritisen.github.io/gohatke/subscribe/ ‎">sign up for our mailing list</a>, or LIKE us on <a href="http://facebook.com/gohatke">Facebook</a>. </p>
 </div>
 
 ![FarmBoy-Piano](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/09/5006494955_d4ae550f8d_b.jpg)

@@ -68,7 +68,7 @@ Let us take a few examples from our earlier list:
 
   * Amish Tripathi wrote most portions of his book <a href="http://businesstoday.intoday.in/story/corporate-executives-writers/1/19238.html" target="_blank">in the back-seat of his car</a> when he was being driven to and from office.
   * Ravi Subramanian and Ashwin Sanghi <a href="http://businesstoday.intoday.in/story/corporate-executives-writers/1/19238.html" target="_blank">burned the midnight oil</a> and worked on their books while their families were tucked away in bed. (That&#8217;s exactly what good students did, remember?)
-  * Chetan Bhagat worked in an investment banking job (we all know that the working hours in this industry are long), and still managed extra time to write books. Of course, Chetan acknowledges that he did some of his writing in office to vent anger on his boss, but Chetan was <a href="http://gohatke.kreativlabs.com/2011/10/23/wonderful-chetan-bhagat-interview-on-zindagi-live-ndtv/" title="Video: Wonderful Chetan Bhagat Interview on Zindagi Live NDTV" target="_blank">always one to do naughty things</a>. 
+  * Chetan Bhagat worked in an investment banking job (we all know that the working hours in this industry are long), and still managed extra time to write books. Of course, Chetan acknowledges that he did some of his writing in office to vent anger on his boss, but Chetan was <a href="http://kritisen.github.io/gohatke/2011/10/23/wonderful-chetan-bhagat-interview-on-zindagi-live-ndtv/" title="Video: Wonderful Chetan Bhagat Interview on Zindagi Live NDTV" target="_blank">always one to do naughty things</a>. 
       * <a href="http://en.wikipedia.org/wiki/Arnab_Ray" target="_blank">Arnab Ray</a> got a Ph.D. (that is usually a life-draining experience by itself), did a research job in U.S.A., created and constantly updated one of India&#8217;s top blogs [greatbong.net][1], and still managed to write two best-selling books.</ul> 
     One wonders what stuff these people are made of. Well at least one thing&#8217;s for certain &#8212; they all work bloody hard.
     
@@ -82,7 +82,7 @@ Let us take a few examples from our earlier list:
     
     > Son, I really encourage you to follow any career that you want. But if you want to make a career of music or writing, you have to be the absolute best in your field. Otherwise you will just not make enough money. However, if you become an engineer, and you are just an average engineer, you will earn enough money. This is what I can tell you &#8212; the choice is yours.
     
-    That just about sums up why so many people in our country opt for engineering and/or MBA. Engineering / MBA is the safe bet. Writing or pursuing the arts is madness. [Watch the TEDx talk to hear the story in Arnab&#8217;s own words: <http://gohatke.kreativlabs.com/2011/11/11/tedx-talk-by-indias-top-blogger-arnab-ray/>]
+    That just about sums up why so many people in our country opt for engineering and/or MBA. Engineering / MBA is the safe bet. Writing or pursuing the arts is madness. [Watch the TEDx talk to hear the story in Arnab&#8217;s own words: <http://kritisen.github.io/gohatke/2011/11/11/tedx-talk-by-indias-top-blogger-arnab-ray/>]
     
     Well now we know why all these writers pursued engineering or MBA. But I still did not answer the original question &#8212; did those degrees help these authors to write their books?
     
@@ -119,6 +119,6 @@ Let us take a few examples from our earlier list:
     This checklist of advice is not just for writers, but also for people following any creative pursuit. At any stage of your life, if you are burning with the desire for starting and completing your dream project, remember the points listed above. These are the basic ingredients for any creative achievement. So get your basics right, and blaze your way to becoming a creative champ.
 
  [1]: http://greatbong.net
- [2]: http://gohatke.kreativlabs.com/2011/10/23/wonderful-chetan-bhagat-interview-on-zindagi-live-ndtv/ "Video: Wonderful Chetan Bhagat Interview on Zindagi Live NDTV"
- [3]: http://gohatke.kreativlabs.com/2011/11/21/how-indias-education-system-stifles-creativity-and-originality/ "How India’s Education Sytem Stifles Originality"
+ [2]: http://kritisen.github.io/gohatke/2011/10/23/wonderful-chetan-bhagat-interview-on-zindagi-live-ndtv/ "Video: Wonderful Chetan Bhagat Interview on Zindagi Live NDTV"
+ [3]: http://kritisen.github.io/gohatke/2011/11/21/how-indias-education-system-stifles-creativity-and-originality/ "How India’s Education Sytem Stifles Originality"
  [4]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2013/01/laid_pbty.png

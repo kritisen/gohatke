@@ -25,4 +25,4 @@ To know more about Chetan&#8217;s way of thinking, and how he managed to write a
 [Image credit: http://www.wittysparks.com/2009/11/08/2-states-by-chetan-bhagat/]
 
  [1]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2011/11/2-States-Chetan-Bhagat.jpg
- [2]: http://gohatke.kreativlabs.com/tag/member_chetan_bhagat/
+ [2]: http://kritisen.github.io/gohatke/tag/member_chetan_bhagat/

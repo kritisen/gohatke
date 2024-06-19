@@ -23,5 +23,5 @@ The enthusiasm of Swapnil is contagious, and one needs to hear him speak to unde
 [Read more about Swapnil.][1]  
 ![10-Ayaz](https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/JY11-10-Ayaz-1-of-131.jpg)
 
- [1]: http://gohatke.kreativlabs.com/tag/member_swapnil_dixit/
+ [1]: http://kritisen.github.io/gohatke/tag/member_swapnil_dixit/
  [2]: https://raw.githubusercontent.com/kritisen/gohatke/main/content/images/2012/02/JY11-10-Ayaz-1-of-131.jpg
